@@ -1,0 +1,2178 @@
+﻿TY  - JOUR
+AU  - Tonnarelli, F
+AU  - Mora, L
+TI  - Responsible AI for Cities: A Case Study of GeoAI in African Informal Settlements
+T2  - JOURNAL OF URBAN TECHNOLOGY
+LA  - English
+KW  - artificial intelligence (AI)
+KW  - Geospatial Artificial Intelligence (GeoAI)
+KW  - ethics of technology
+KW  - responsible AI
+KW  - urban governance
+KW  - TASK-TECHNOLOGY FIT
+KW  - PLANNING SUPPORT
+KW  - BIG DATA
+KW  - SMART
+KW  - FRAMEWORK
+KW  - IMPACT
+KW  - POLICY
+AB  - Geospatial Artificial Intelligence (GeoAI) systems are increasingly used by local governments to manage urban planning activities. However, there is a lack of clear guidelines for responsible artificial intelligence (AI) implementation. We address this gap by applying the task-data-user-technology fit theory. First, we create a conceptual framework that translates ethical AI principles into practical system requirements. Second, we apply this framework through a case study analysis. We examine the geospatial AI system that the city of eThekwini, South Africa, has deployed to monitor their informal settlements. Based on expert interviews, our analysis highlights the ethical trade-offs inherent in the interactions between fits, data, tasks, users, and AI interactions, especially in an inherently localized and multi-stakeholder field such as urban planning. Additionally, we show how these fits are interconnected and cross-dependent. For example, the technical skills and resources of users can influence all other fits. Our study also reveals how task reconfiguration, user adaptability, and data improvement can enhance or hinder alignment with technology. From these insights, we introduce practical and theoretical recommendations for responsible AI development, adoption, and use.
+AD  - Tallinn Univ Technol, FinEst Ctr Smart Cities, Tallinn, EstoniaAD  - Tallinn Univ Technol, Acad Architecture & Urban Studies, Tallinn, EstoniaAD  - Edinburgh Napier Univ, Business Sch, Edinburgh, ScotlandC3  - Tallinn University of TechnologyC3  - Tallinn University of TechnologyC3  - Edinburgh Napier UniversityFU  - European Commission [856602]
+FX  - This work has been supported by the European Commission through the Horizon 2020 project FinEst Twins (Grant Agreement No. 856602).
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 1063-0732
+SN  - 1466-1853
+J9  - J URBAN TECHNOL
+JI  - J. Urban Technol.
+DA  - MAY 27
+PY  - 2025
+VL  - 32
+IS  - 3
+SP  - 111
+EP  - 137
+DO  - 10.1080/10630732.2025.2450755
+C6  - FEB 2025
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001420376000001
+N1  - Times Cited in Web of Science Core Collection:  11
+Total Times Cited:  12
+Cited Reference Count:  93
+ER  -
+
+TY  - JOUR
+AU  - Boutayeb, A
+AU  - Lahsen-Cherif, I
+AU  - El Khadimi, A
+TI  - When Machine Learning Meets Geospatial Data: A Comprehensive GeoAI Review
+T2  - IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING
+LA  - English
+KW  - Big geodata
+KW  - geographic information systems (GIS)
+KW  - geospatial artificial intelligence (GeoAI)
+KW  - geospatial data
+KW  - machine learning (ML)
+KW  - Big geodata
+KW  - geographic information systems (GIS)
+KW  - geospatial artificial intelligence (GeoAI)
+KW  - geospatial data
+KW  - machine learning (ML)
+KW  - GEOGRAPHICALLY WEIGHTED REGRESSION
+KW  - IMAGE TIME-SERIES
+KW  - WATER INDEX NDWI
+KW  - ARTIFICIAL-INTELLIGENCE
+KW  - SPATIOTEMPORAL PREDICTION
+KW  - NEURAL-NETWORKS
+KW  - DEEP
+KW  - MODEL
+KW  - GRADIENT
+KW  - EXTRACTION
+AB  - In recent years, geospatial artificial intelligence (GeoAI) has gained traction in the most relevant research works and industrial applications, while also becoming involved in various fields of use. This article offers a comprehensive review of GeoAI as a synergistic concept applying artificial intelligence (AI) models, specifically those of machine learning (ML), to geospatial data. A preliminary study is carried out, identifying the methodology of the work, the research motivations, the issues, and the directions to be tracked, followed by exploring how GeoAI can be used in various interesting fields of application, such as precision agriculture, environmental monitoring, disaster management, and urban planning. Next, a statistical and semantic analysis is carried out, followed by a clear and precise presentation of the challenges facing GeoAI. Then, a concrete exploration of the future prospects is provided, based on several information gathered during the census. To sum up, this article provides a complete overview of the correlation between ML and the geospatial domain, while mentioning the research conducted in this context, and emphasizing the close relationship linking GeoAI with other advanced concepts such as geographic information systems and large-scale geospatial data, known as big geodata. This will enable researchers and scientific community to assess the state of progress in this promising field and will help other interested parties to gain a better understanding of the issues involved.
+AD  - Inst Natl Postes Telecommun INPT, Artificial Intelligence Geodecis Networking Optimi, Rabat 10000, MoroccoPU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 1939-1404
+SN  - 2151-1535
+J9  - IEEE J-STARS
+JI  - IEEE J. Sel. Top. Appl. Earth Observ. Remote Sens.
+PY  - 2025
+VL  - 18
+SP  - 13135
+EP  - 13191
+DO  - 10.1109/JSTARS.2025.3568715
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001499642600026
+N1  - Times Cited in Web of Science Core Collection:  16
+Total Times Cited:  17
+Cited Reference Count:  544
+ER  -
+
+TY  - JOUR
+AU  - Adewumi, MG
+AU  - Areo, IO
+AU  - Muhigira, KT
+AU  - Ediagbonya, TF
+TI  - Geo-AI for landslide susceptibility in Rwanda: integrating LiDAR, soil moisture, and historical data
+T2  - GEOCARTO INTERNATIONAL
+LA  - English
+KW  - Landslide susceptibility
+KW  - geospatial artificial intelligence
+KW  - light detection and ranging
+KW  - soil moisture
+KW  - Rwanda
+KW  - East Africa
+KW  - early warning systems
+KW  - machine learning
+KW  - PREDICTION
+AB  - Landslide susceptibility in Rwanda's mountainous regions requires advanced predictive tools to address increasing risks driven by climate change and human activities. This systematic review synthesizes 36 studies published between 2017 and 2025 on Geo-AI frameworks integrating LiDAR-derived terrain metrics, soil moisture data and historical landslide inventories for susceptibility mapping. Findings show that deep learning models, especially convolutional neural networks (CNNs), outperform classical machine learning approaches, achieving Area Under the Curve (AUC) values of 0.93-0.96 compared to 0.85-0.90 for random forest and support vector machines. While classical models offer greater interpretability, they are less effective at capturing complex nonlinear relationships. Key challenges include data scarcity, model opacity and climate non-stationarity. The review proposes an integrative Geo-AI framework for Rwanda emphasizing multiscale data fusion, ensemble modeling and explainable AI to support early warning systems, land-use planning and disaster risk reduction in East Africa.
+AD  - Univ Lay Adventist Kigali, Fac Comp & Informat Sci, Kigali 6392, RwandaAD  - Bamidele Olumilua Univ Educ Sci & Technol Ikere Ek, Comp & Informat Sci Dept, Ekiti, NigeriaAD  - Univ Lay Adventist Kigali, Fac Environm Studies, Kigali, RwandaAD  - Univ Abuja, Dept Geog & Environm Management, Abuja, NigeriaAD  - Olusegun Agagu Univ Sci & Technol, Dept Chem Sci, Okitipupa, Ondo, NigeriaPU  - TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN  - 1010-6049
+SN  - 1752-0762
+J9  - GEOCARTO INT
+JI  - Geocarto Int.
+DA  - DEC 31
+PY  - 2026
+VL  - 41
+IS  - 1
+C7  - 2696122
+DO  - 10.1080/10106049.2026.2696122
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001810247400001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Zhu, YY
+AU  - Chen, AD
+AU  - Li, X
+AU  - Pan, Y
+AU  - Yuan, YW
+AU  - Yang, N
+AU  - Chen, WW
+AU  - Huang, JW
+AU  - Cai, J
+AU  - Fu, H
+TI  - An Improved Geospatial Object Detection Framework for Complex Urban and Environmental Remote Sensing Scenes
+T2  - APPLIED SCIENCES-BASEL
+LA  - English
+KW  - Geospatial Artificial Intelligence (GeoAI)
+KW  - urban monitoring
+KW  - land use analysis
+KW  - object detection
+KW  - remote sensing images (RSIs)
+KW  - adaptive receptive fields
+KW  - multi-path feature attention
+AB  - Featured Application The RS-YOLO framework can be used in urban infrastructure monitoring, land use change detection, and transportation facility management. It offers a powerful GeoAI instrument for sustainable urban planning and environmental governance.Abstract The development of Geospatial Artificial Intelligence (GeoAI), combining deep learning and remote sensing imagery, is of great interest for automated spatial inference and decision-making support. In this paper, a GeoAI-based efficient object detection framework named RS-YOLO is introduced by adopting the YOLOv11 architecture. The model integrates Dynamic Convolution for adaptive receptive field adjustment, Selective Kernel Attention for multi-path feature aggregation, and the MPDIoU loss function for geometry-aware localization. The proposed approach outperforms in experimental results on the TGRS-HRRSD dataset of 13 scenes from different geospatial scenarios, giving an 89.0% mAP and an 87 F1-score. Beyond algorithmic advancement, RS-YOLO provides a GeoAI-based analytical tool for applications such as urban infrastructure monitoring, land use management, and transportation facility recognition, enabling spatially informed and sustainable decision-making in complex remote sensing environments.
+AD  - Beijing Union Univ, Coll Robot, Beijing 100101, Peoples R ChinaAD  - Chinese Acad Sci, Inst Semicond, Beijing 100083, Peoples R ChinaAD  - Nanjing Vocat Coll Finance & Econ, Nanjing 211121, Peoples R ChinaAD  - Beijing Union Univ, Beijing Key Lab Informat Serv Engn, Beijing 100101, Peoples R ChinaC3  - Beijing Union UniversityC3  - Chinese Academy of SciencesC3  - Institute of Semiconductors, CASC3  - Beijing Union UniversityFU  - National key research and development plan " Multidimensional visual information edge intelligent processor chip" [2022YFB2804402]
+FX  - This research was supported by the National key research and development plan " Multidimensional visual information edge intelligent processor chip" (2022YFB2804402).
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2076-3417
+J9  - APPL SCI-BASEL
+JI  - Appl. Sci.-Basel
+DA  - JAN 27
+PY  - 2026
+VL  - 16
+IS  - 3
+C7  - 1288
+DO  - 10.3390/app16031288
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001687504500001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  26
+ER  -
+
+TY  - JOUR
+AU  - Rezvani, SMHS
+AU  - Gonçalves, A
+AU  - Silva, MJF
+AU  - de Almeida, NM
+TI  - Smart hotspot detection using geospatial artificial intelligence: A machine learning approach to reduce flood risk
+T2  - SUSTAINABLE CITIES AND SOCIETY
+LA  - English
+KW  - Geospatial artificial intelligence
+KW  - Flood hazard mapping
+KW  - Machine learning
+KW  - Urban resilience
+KW  - Disaster risk reduction
+KW  - Geospatial data analysis
+KW  - RANDOM-FOREST
+KW  - HAZARD RISK
+KW  - AREAS
+KW  - SUSCEPTIBILITY
+KW  - PREDICTION
+KW  - REGRESSION
+KW  - MANAGEMENT
+KW  - DRAINAGE
+KW  - BASIN
+KW  - RIVER
+AB  - This study employs Geospatial Artificial Intelligence (GeoAI) and the Random Forest Machine Learning (ML) algorithm to enhance flood hazard assessments in Portugal. It utilizes NASA's LP DAAC (2023) Digital Elevation Model (DEM) and slope data from EPIC WEBGIS PORTUGAL DATA, offering detailed topographical insights for environmental planning. Additionally, it incorporates data on proximity to water bodies from the Portuguese Environment Agency and the European Environment Agency, and soil characteristics from EPIC WEBGIS PORTUGAL DATA, facilitating a thorough examination of flood risks. This approach prioritizes long-term land features over short-term weather patterns, providing a comprehensive understanding of flood vulnerability. The study processes data at a 1 km x 1 km resolution, adapting TIFF maps for compatibility with the Random Forest model. The produced flood hazard maps identify potential flood hotspots at both national and city levels, crucial for urban planning. These maps aid in assessing the vulnerability of key infrastructure and assets, such as transport networks and buildings. The research highlights the importance of integrating additional data on assets and socioeconomic factors to enhance urban resilience. It sets the stage for future research aimed at improving predictive accuracy and underscores the necessity of extensive geospatial analytics in managing infrastructure risks.
+AD  - Univ Lisbon, Civil Engn Res & Innovat Sustainabil CERIS, Inst Super Tecn, Ave Rovisco Pais 1, P-1049001 Lisbon, PortugalAD  - Lab Nacl Engn Civil, Ave Brasil 101, P-1700075 Lisbon, PortugalC3  - Universidade de LisboaC3  - National Civil Engineering LaboratoryFU  - Fundacao para a Ciencia e a Tecnologia (FCT) [UIDB/04625/2020]; FCT [2022.12886. BD]
+FX  - This work is part of the research being carried out at Civil Engineering Research and Innovation for Sustainability (CERIS) and was funded by Fundacao para a Ciencia e a Tecnologia (FCT) in the frame-work of project UIDB/04625/2020 and FCT grant number "2022.12886. BD" (carried out at the Instituto Superior Tecnico (IST)).
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2210-6707
+SN  - 2210-6715
+J9  - SUSTAIN CITIES SOC
+JI  - Sust. Cities Soc.
+DA  - NOV 15
+PY  - 2024
+VL  - 115
+C7  - 105873
+DO  - 10.1016/j.scs.2024.105873
+C6  - OCT 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001333190100001
+N1  - Times Cited in Web of Science Core Collection:  20
+Total Times Cited:  22
+Cited Reference Count:  128
+ER  -
+
+TY  - JOUR
+AU  - Marasinghe, R
+AU  - Yigitcanlar, T
+AU  - Mayere, S
+AU  - Washington, T
+AU  - Limb, M
+TI  - Towards Responsible Urban Geospatial AI: Insights From the White and Grey Literatures
+T2  - JOURNAL OF GEOVISUALIZATION AND SPATIAL ANALYSIS
+LA  - English
+KW  - Geospatial AI
+KW  - Responsible AI
+KW  - GeoAI integration
+KW  - Machine learning
+KW  - Computer vision
+KW  - Urban planning
+AB  - Artificial intelligence (AI) has increasingly been integrated into various domains, significantly impacting geospatial applications. Machine learning (ML) and computer vision (CV) are critical in urban decision-making. However, urban AI implementation faces unique challenges. Academic literature on responsible AI largely focuses on general principles, with limited emphasis on the geospatial domain. This important gap in scholarly work could hinder effective AI integration in urban geospatial applications. Our study employs a multi-method approach, including a systematic academic literature review, word frequency analysis and insights from grey literature, to examine potential challenges and propose strategies for effective geospatial AI (GeoAI) integration. We identify a range of responsible practices relevant to the complexities of using AI in urban geospatial planning and its effective implementation. The review provides a comprehensive and actionable framework for responsible AI adoption in the geospatial domain, offering a roadmap for urban researchers and practitioners. It highlights ways to optimise AI benefits while minimising potential negative consequences, contributing to urban sustainability and equity.
+AD  - Queensland Univ Technol, Sch Architecture & Built Environm, City 4 0 Lab, 2 George St, Brisbane, Qld 4000, AustraliaC3  - Queensland University of Technology (QUT)FU  - CAUL; Australian Research Council Discovery Grant Scheme [DP220101255]
+FX  - Open Access funding enabled and organized by CAUL and its Member Institutions. This research was funded by the Australian Research Council Discovery Grant Scheme, grant number DP220101255.
+PU  - SPRINGERNATURE
+PI  - LONDON
+PA  - CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN  - 2509-8810
+SN  - 2509-8829
+J9  - J GEOVIS SPAT ANAL
+JI  - J. Geovis. Spat. Anal.
+DA  - DEC
+PY  - 2024
+VL  - 8
+IS  - 2
+C7  - 24
+DO  - 10.1007/s41651-024-00184-2
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001255363100001
+N1  - Times Cited in Web of Science Core Collection:  22
+Total Times Cited:  25
+Cited Reference Count:  75
+ER  -
+
+TY  - JOUR
+AU  - Gaglione, F
+TI  - REVIEW NOTE - Town Planning International Rules and Legislation Urban planning and GeoAI in smart city policies
+T2  - TEMA-JOURNAL OF LAND USE MOBILITY AND ENVIRONMENT
+LA  - English
+KW  - Urban sustainability
+KW  - Smart city
+KW  - Geospatial Artificial Intelligence (GeoAI)
+KW  - CITIES
+AB  - Starting from the relationship between urban planning and mobility management, TeMA has gradually expanded the view of the covered topics, always following a rigorous scientific in-depth analysis. This section of the Journal, Review Notes, is a continuous update about emerging topics concerning relationships among urban planning, mobility, and environment, thanks to a collection of short scientific papers written by young researchers. The Review Notes are made up of five parts. Each section examines a specific aspect of the broader information storage within the main interests of the TeMA Journal. In particular: the Town Planning International Rules and Legislation. The growing attention in the last period to the smart city in the academic and political world has occurred as a response to the environmental sustainability objectives set by the European Union. The complementarity between new technologies and components of the urban system should be the starting point for the formulation of new forms of organization of urban life, but this still constitutes a critical issue in many territorial contexts today. In this direction, the contribution of this review note illustrates on the one hand current technologies such as Geospatial Artificial Intelligence (GeoAI): to achieve the objectives of smart cities and on the other to outline within the sheets, instead, the European policies on smart city and artificial intelligence to have a cognitive and operational framework on the topic.
+AD  - Univ Sannio, Dept Engn, Benevento, ItalyC3  - University of SannioPU  - UNIV STUDI NAPOLI FEDERICO II, DIPT PIANIFICAZIONE & SCIENZA TERRITORIO
+PI  - NAPLES
+PA  - PIAZZALE TECCHIO 80, NAPLES, 80125, ITALY
+SN  - 1970-9889
+SN  - 1970-9870
+J9  - TEMA
+JI  - TeMA
+DA  - DEC
+PY  - 2023
+VL  - 16
+IS  - 3
+DO  - 10.6092/1970-9870/10317
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001241851400010
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  34
+ER  -
+
+TY  - CPAPER
+AU  - Nguyen, KS
+AU  - Nguyen, TV
+AU  - Ngo, HH
+AU  - Nguyen, DB
+ED  - Nguyen, NT
+ED  - Chen, CH
+ED  - Fujita, H
+ED  - Hong, TP
+ED  - Manolopoulos, Y
+ED  - Wojtkiewicz, K
+TI  - ContextGeo: A Context Engineering Framework for Multi-agent Geospatial AI Systems
+T2  - INTELLIGENT INFORMATION AND DATABASE SYSTEMS, ACIIDS 2026, PT II
+LA  - English
+CP  - 18th Asian Conference on Intelligent Information and Database Systems-ACIIDS
+KW  - Context Engineering
+KW  - Multi-Agent Systems
+KW  - Geospatial Artificial Intelligence
+KW  - Retrieval-Augmented Generation
+KW  - Spatial Databases
+AB  - Context management remains a critical bottleneck in multi-agent Geospatial Artificial Intelligence systems, limiting task completion rates and causing context overflow in complex workflows. We propose ContextGeo, a systematic Context Engineering framework that integrates four Retrieval-Augmented Generation strategies through five specialized agents coordinated by a Spatial Context Manager. The framework introduces three novel mechanisms: Hierarchical Spatial Memory for structured multi-scale retrieval, geospatial-aware compression that preserves topological relationships, and Temporal Context Versioning for maintaining spatial-temporal consistency across workflow stages. Through comprehensive experiments on 150 real-world geospatial tasks spanning three complexity levels, ContextGeo demonstrates substantial performance improvements with 91.2% Task Completion Rate (+34.7% points over state-of-the-art), 87.6% Spatial Analysis Accuracy (+28.5% points), and 42.3% token reduction, all statistically significant at p < 0.001. These results provide empirical evidence that systematic Context Engineering can address fundamental limitations in multi-agent Geospatial Artificial Intelligence, with immediate implications for urban planning, environmental monitoring, and disaster response applications.
+AD  - Thai Nguyen Univ Informat & Commun Technol, Thai Nguyen, VietnamC3  - Thai Nguyen UniversityPU  - SPRINGER-VERLAG SINGAPORE PTE LTD
+PI  - SINGAPORE
+PA  - 152 BEACH ROAD, #21-01/04 GATEWAY EAST, SINGAPORE, 189721, SINGAPORE
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-981-92-0073-3
+SN  - 978-981-92-0074-0
+J9  - LECT NOTES ARTIF INT
+PY  - 2026
+VL  - 16531
+SP  - 117
+EP  - 130
+DO  - 10.1007/978-981-92-0074-0_9
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001795843800009
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  14
+ER  -
+
+TY  - JOUR
+AU  - Lee, J
+AU  - Jahangeer, J
+AU  - Andrews, J
+AU  - Mason, JB
+AU  - Nam, Y
+AU  - Tang, ZH
+TI  - Tracking residential development and flood risk in Eastern Nebraska: a Geo-AI imagery change detection approach
+T2  - SPATIAL INFORMATION RESEARCH
+LA  - English
+KW  - Flood risk
+KW  - Residential development
+KW  - Geo-AI
+KW  - Building change detection
+KW  - Siamese U-Net
+KW  - Spatial planning
+KW  - BUILDING EXTRACTION
+KW  - GEOSPATIAL DATA
+KW  - RESOLUTION
+KW  - EXPOSURE
+AB  - Inland communities face escalating flood risks as residential development continues within regulatory floodplains, Douglas, and Sarpy Counties in eastern Nebraska, an area heavily impacted by the 2019 Midwest floods. We develop a geospatial artificial intelligence (Geo-AI) framework integrating bi-temporal National Agricultural Imagery Program (NAIP) imagery, parcel-level assessment data, building footprints, and flood hazard maps, and apply a Siamese U-Net deep learning model to detect new, demolished, and existing residential structures. Results show a substantial increase in floodplain exposure, with over 2,250 new residential buildings constructed more than 21 times the number of demolitions primarily in high-assessed-value areas, while removals are concentrated in disadvantaged neighborhoods. The model achieved 98% overall accuracy, demonstrating strong capability for detecting building-scale change. These findings highlight growing inequities in flood-risk exposure and demonstrate the value of Geo-AI for spatially explicit flood-risk monitoring, risk-informed planning, and equitable land-use policy development.
+AD  - Univ Nebraska Lincoln, Coll Architecture, Community & Reg Planning Program, Lincoln, NE 68588 USAAD  - Nebraska Dept Econ Dev, Lincoln, NE USAC3  - University of Nebraska LincolnC3  - University of Nebraska SystemC3  - University of Nebraska LincolnFU  - U.S. Department of Housing and Urban Development [U.S. Department of Housing and Urban Development]; Nebraska Department of Economic Development [AL #14.228]
+FX  - This research was funded by the Nebraska Department of Economic Development (AL #14.228), with original funds from the US Department of Housing and Urban Development (HUD). The content does not necessarily reflect the views and policies of the funding agencies and does not mention the trade names or commercial products that constitute endorsement or recommendation for use.
+PU  - SPRINGER SINGAPORE PTE LTD
+PI  - SINGAPORE
+PA  - 152 Beach Road, #21-01 Gateway East, SINGAPORE, SINGAPORE
+SN  - 2366-3286
+SN  - 2366-3294
+J9  - SPAT INF RES
+JI  - Spat. Inf. Res.
+DA  - MAR 10
+PY  - 2026
+VL  - 34
+IS  - 2
+C7  - 19
+DO  - 10.1007/s41324-026-00678-9
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001712752500001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  68
+ER  -
+
+TY  - JOUR
+AU  - de la Cruz, M
+AU  - Martínez-Cuevas, S
+AU  - Garcia-Aranda, C
+AU  - Morillo, MC
+TI  - GeoAI-driven building facade classification for urban pattern analysis: A case study in Murcia, Spain
+T2  - JOURNAL OF URBAN MANAGEMENT
+LA  - English
+KW  - GIS
+KW  - Cluster
+KW  - Urban growth
+KW  - Deep learning
+KW  - Image classification
+AB  - The rapid expansion of cities presents new challenges for urban planning and housing policy, making the adoption of advanced technologies essential for supporting evidence-based decisionmaking. This study introduces an integrated GeoAI (Geospatial Artificial Intelligence) methodology for analyzing urban patterns in Murcia, Spain, combining cadastral records and facade images obtained from the General Directorate of Cadastre platform, Geographic Information Systems (GIS) and deep learning models. Using clustering and a pre-trained EfficientNetB0 architecture, we developed an automated classification model that identifies two main groups of dwellings, reflecting clear spatial contrasts in building typologies, heights, and construction quality. The results, integrated into a GIS, provide detailed territorial insights that align with housing cost and construction category variables. Beyond technical innovation, this approach offers practical applications for municipal authorities, enabling more efficient built-space management, improved zoning, and enhanced strategies for housing policy, urban growth control, and climate resilience. The model represents a scalable tool for large-scale urban analysis, adaptable to other cities facing rapid transformation.
+AD  - Univ Politeocn Madrid, Dept Topog Engn & Cartog, Madrid, Madrid, SpainAD  - Campus Sur UPM,C Mercator 2, Madrid 28031, SpainPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2226-5856
+SN  - 2589-0360
+J9  - J URBAN MANAG
+JI  - J. Urban Manag.
+DA  - JUN
+PY  - 2026
+VL  - 15
+IS  - 2
+SP  - 519
+EP  - 537
+DO  - 10.1016/j.jum.2025.11.005
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001766311200001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  41
+ER  -
+
+TY  - CPAPER
+AU  - Ghose, H
+AU  - Rai, A
+ED  - Chowdhary, VR
+ED  - Jagtap, A
+ED  - Ravan, S
+ED  - Ranade, H
+ED  - Shekhar, S
+TI  - Assessing the Pedestrian Infrastructure for Integrated Visual Walkability of Kolkata Municipal Corporation using Deep Learning based Geospatial Artificial Intelligence (Geo AI)
+T2  - ISPRS ANNALS OF THE PHOTOGRAMMETRY, REMOTE SENSING AND SPATIAL INFORMATION SCIENCES, VOLUME X-5/W2-2025
+LA  - English
+CP  - 2025 GIFTS Summit
+KW  - Walkability
+KW  - Street View Images
+KW  - Mapillary
+KW  - Semantic Segmentation
+KW  - Kolkata
+KW  - PHYSICAL-ENVIRONMENT
+KW  - URBAN FORM
+KW  - DETERMINANTS
+KW  - WALKING
+AB  - Walkability, a core element of urban mobility, is indispensable for health, liveability, and sustainability. However, it continues to face challenges in the major cities of developing countries across the Global South. Adopting a case study of the metropolitan city of Kolkata, West Bengal, India, this study aims to assess the integrated visual walkability using Mapillary Street View Imagery combined with deep learning-based semantic segmentation techniques. Four factors have been considered to study the walkability: Greenery, Openness, Pavement and Crowdedness along the selected footpaths of the study area. The semantic labels are then used to quantify the selected indicators and the areas are mapped using GeoAI techniques to reveal the intra-city variations, on a normalised scale from 01, where 0 indicates not walkable and 1 indicates highly walkable. The findings indicate significant discrepancies in pedestrian infrastructure, particularly within the central business districts (CBDs) of the city. These disparities are evident in inadequate footpath widths, unsafe walking spaces, and ignorance of inclusive design considerations. This shortfall in pedestrian-friendly infrastructure contributes to a less livable urban environment, impacting safety, accessibility, and overall enjoyment of the city for pedestrians. Further, the study acknowledges the potential of street view imageries and deep learning-based methods in studying urban mobility. The findings are intended to support data-driven, inclusive, and sustainable spatial planning for improved urban mobility.
+AD  - Adamas Univ, Sch Basic & Appl Sci, Dept Geog, Kolkata, West Bengal, IndiaPU  - COPERNICUS GESELLSCHAFT MBH
+PI  - GOTTINGEN
+PA  - BAHNHOFSALLE 1E, GOTTINGEN, 37081, GERMANY
+PY  - 2025
+SP  - 209
+EP  - 218
+DO  - 10.5194/isprs-annals-X-5-W2-2025-209-2025
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001813521100027
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  40
+ER  -
+
+TY  - JOUR
+AU  - Mortaheb, R
+AU  - Jankowski, P
+TI  - Smart city re-imagined: City planning and GeoAI in the age of big data
+T2  - JOURNAL OF URBAN MANAGEMENT
+LA  - English
+KW  - Smart city
+KW  - AI in urban planning
+KW  - Urban digital twins
+KW  - Geographic information science and systems
+KW  - Sustainable urban development
+KW  - SPATIAL OPTIMIZATION
+KW  - URBAN
+KW  - CITIES
+KW  - GIS
+KW  - TOOL
+KW  - PERFORMANCE
+AB  - This paper aims to engage with the ongoing debates on the role of planning in future smart cities, to make a case for a reconceptualization of the technocentric notion of the smart city, and to elevate the position of city planning within the smart-city discourse. The central argument made is that the smart city could exploit the synergies between city planning and three techno-scientific domains including Big Data, Geographic Information Science and Systems, and Data Science- -which collectively constitute an emerging field known as Geospatial Artificial Intelligence (Geo-AI)- to meet four overarching policy goals: 1) to enhance the efficiency of urban services and functions; 2) to improve quality of life for all urban citizens; 3) to address the pressing societal, ecological and economic challenges that could plague urban systems on different levels; and, 4) to contribute to the production of spatial data, information and knowledge on human-urban dy-namics. In addition, the paper defines a human-centered conceptual framework illustrating how the cross-pollination between city planning and the three techno-scientific fields could enhance the planning practice and accomplish the smart-city policy goals. The methodology employed in this study entails a systematic review of the literature. In addition to discussing the latest achievements as well as the progress made on the nexus of city planning and GeoAI, the paper also highlights the barriers to the application of GeoAI in the planning, design and management of smart cities and identifies potential avenues for future research.
+AD  - Univ Calif Santa Barbara, Santa Barbara, CA USAAD  - San Diego State Univ, Dept Geog, San Diego, CA 92182 USAC3  - University of California SystemC3  - University of California Santa BarbaraC3  - California State University SystemC3  - San Diego State UniversityPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2226-5856
+SN  - 2589-0360
+J9  - J URBAN MANAG
+JI  - J. Urban Manag.
+DA  - MAR
+PY  - 2023
+VL  - 12
+IS  - 1
+SP  - 4
+EP  - 15
+DO  - 10.1016/j.jum.2022.08.001
+C6  - MAR 2023
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:000956329800001
+N1  - Times Cited in Web of Science Core Collection:  99
+Total Times Cited:  110
+Cited Reference Count:  86
+ER  -
+
+TY  - JOUR
+AU  - Hsu, CW
+AU  - Chern, YR
+AU  - Su, JJ
+AU  - Wong, PY
+AU  - Asri, AK
+AU  - Wijaya, C
+AU  - Chen, YC
+AU  - Lung, SCC
+AU  - Hsiao, TC
+AU  - Teo, TA
+AU  - Shih, YL
+AU  - Wu, CD
+TI  - Assessing 3-D variability of ultrafine particle using a Geo-AI modelling approach: A case study in Zhunan-Miaoli, Taiwan
+T2  - ENVIRONMENTAL POLLUTION
+LA  - English
+KW  - 3-D distribution
+KW  - Air pollution
+KW  - Geo-AI
+KW  - Unmanned aerial vehicle (UAV)
+KW  - Ultrafine particulate matter (PM0.1)
+KW  - LAND-USE REGRESSION
+KW  - URBAN AREAS
+KW  - POLLUTION
+KW  - PM2.5
+KW  - POLLUTANTS
+KW  - EMISSIONS
+KW  - PATTERNS
+KW  - EXPOSURE
+KW  - GRADIENT
+KW  - CITIES
+AB  - Previous air pollution modeling studies have predominantly emphasized horizontal distributions, overlooking the critical vertical variability of pollutant concentrations in urban environments. Therefore, the threedimensional (3-D) behavior of air pollutants, and of ultrafine particulate matter (PM0.1) in particular, is insufficiently characterized. This study examined the 3-D distribution of PM0.1 in the Zhunan and Toufen regions in Miaoli, Taiwan. Using a hexacopter drone, PM0.1 concentrations were measured at 12 locations, at altitudes of 40, 60, and 100 m. A geospatial-artificial intelligence (Geo-AI) model was developed to estimate 3-D PM0.1 concentrations, incorporating databases such as land use, meteorology, and 3-D building data as predictor variables. SHapley Additive exPlanations (SHAP) analysis for variable selection showed that key predictors were building height, temperature, carbon dioxide, nitric oxide, forest coverage and 3-D spatial distance from buildings. Five machine learning algorithms were used for modeling. Extreme Gradient Boosting Regressor (XGBR) achieved the best performance with a training R2 of 0.98. The model's robustness was further examined through 10-fold cross-validation and stratified validation, which yielded R2 values exceeding 0.85, indicating a strong ability to capture the spatial variation of PM0.1 across different environmental conditions. These findings underscored the crucial role of vertical pollutant dispersion in urban environments and the need to incorporate detailed 3-D measurements into urban planning and public health policies.
+AD  - Natl Cheng Kung Univ, Dept Geomat, Tainan 70101, TaiwanAD  - Natl Cheng Kung Univ, Dept Elect Engn, Tainan 70101, TaiwanAD  - Acad Sinica, Res Ctr Environm Changes, Taipei 11529, TaiwanAD  - Agr Engn Res Ctr, Taoyuan 32061, TaiwanAD  - Natl Inst Environm Hlth Sci, Natl Hlth Res Inst, Miaoli 35053, TaiwanAD  - Natl Taiwan Univ, Dept Atmospher Sci, Taipei 10617, TaiwanAD  - Natl Taiwan Univ, Grad Inst Environm Engn, Taipei 10617, TaiwanAD  - Natl Yang Ming Chiao Tung Univ, Dept Civil Engn, Hsinchu 30010, TaiwanAD  - Natl Ctr High Performance Comp, Hsinchu 30076, TaiwanAD  - Natl Chung Hsing Univ, Innovat & Dev Ctr Sustainable Agr, Taichung 40227, TaiwanAD  - Kaohsiung Med Univ, Res Precis Environm Med, Kaohsiung 80708, TaiwanAD  - Chang Gung Univ Sci & Technol, Chron Dis & Hlth Promot Res Ctr, Chiayi 61363, TaiwanC3  - National Cheng Kung UniversityC3  - National Cheng Kung UniversityC3  - Academia Sinica - TaiwanC3  - National Health Research Institutes - TaiwanC3  - National Taiwan UniversityC3  - National Taiwan UniversityC3  - National Yang Ming Chiao Tung UniversityC3  - National Chung Hsing UniversityC3  - Kaohsiung Medical UniversityC3  - Chang Gung University of Science & TechnologyFU  - National Science and Technology Council, Taiwan [NSTC 114-2119-M-006-010-, NSTC 113-2121-M-006-010-, NSTC 112-2121-M-006-015-, NSTC 113-2123-M-001-013-, NSTC 113-2121-M-006-001-, 112-2314-B-038-118-MY2]; Higher Education Sprout Project of the Ministry of Education (MOE) in Taiwan; Research Center for Precision Environmental Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan under the auspices of The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project of the Ministry of Education; Kaohsiung Medical University Research Center Grant [KMU-TC114A01]; Division of Research Planning and Development, Department of Research and Development, Taoyuan General Hospital, Ministry of Health and Welfare [PTH114058, PTH114118]; College of Oral Medicine, Taipei Medical University [TMUCOM202501]; Chang Gung University of Science and Technology Foundation [ZRRPF6N0011]; Chang Gung Medical Research Program Foundation [CMRPF6P0041, CMRPF6P0042, CMRPF6P0043]
+FX  - This study is supported by the National Science and Technology Council, Taiwan (NSTC 114-2119-M-006-010-; NSTC 113-2121-M-006-010-; NSTC 112-2121-M-006-015-; NSTC 113-2123-M-001-013-; NSTC 113-2121-M-006-001-; 112-2314-B-038-118-MY2) and the Higher Ed-ucation Sprout Project of the Ministry of Education (MOE) in Taiwan. This work is supported partially by the Research Center for Precision Environmental Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan under the auspices of The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project of the Ministry of Education (MOE) in Taiwan and by a Kaohsiung Medical University Research Center Grant (KMU-TC114A01) . This research is also funded by the Division of Research Planning and Development, Department of Research and Development, Taoyuan General Hospital, Ministry of Health and Welfare (PTH114058 and PTH114118) , College of Oral Medicine, Taipei Medical University (TMUCOM202501) , Chang Gung University of Science and Technology Foundation (ZRRPF6N0011) and Chang Gung Medical Research Pro-gram Foundation (CMRPF6P0041, CMRPF6P0042, and CMRPF6P0043) .
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0269-7491
+SN  - 1873-6424
+J9  - ENVIRON POLLUT
+JI  - Environ. Pollut.
+DA  - OCT 15
+PY  - 2025
+VL  - 383
+C7  - 126879
+DO  - 10.1016/j.envpol.2025.126879
+C6  - JUL 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001584928700002
+N1  - Times Cited in Web of Science Core Collection:  4
+Total Times Cited:  4
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Niroshan, L
+AU  - Carswell, JD
+TI  - Evaluating GeoAI-Generated Data for Maintaining VGI Maps
+T2  - LAND
+LA  - English
+KW  - GeoAI
+KW  - map feature accuracy
+KW  - OpenStreetMap
+KW  - Quality Assurance
+KW  - volunteered geographic information
+KW  - QUALITY ASSESSMENT
+KW  - OPENSTREETMAP
+AB  - Geospatial Artificial Intelligence (GeoAI) offers a scalable solution for automating the generation and updating of volunteered geographic information (VGI) maps-addressing the limitations of manual contributions to crowd-source mapping platforms such as OpenStreetMap (OSM). This study evaluates the accuracy of GeoAI-generated buildings specifically, using two Generative Adversarial Network (GAN) models. These are OSM-GAN-trained on OSM vector data and Google Earth imagery-and OSi-GAN-trained on authoritative "ground truth" Ordnance Survey Ireland (OSi) vector data and aerial orthophotos. Altogether, we assess map feature completeness, shape accuracy, and positional accuracy and conduct qualitative visual evaluations using live OSM database features and OSi map data as a benchmark. The results show that OSi-GAN achieves higher completeness (88.2%), while OSM-GAN provides more consistent shape fidelity (mean HD: 3.29 m; sigma = 2.46 m) and positional accuracy (mean centroid distance: 1.02 m) compared to both OSi-GAN and the current OSM map. The OSM dataset exhibits moderate average deviation (mean HD 5.33 m) but high variability, revealing inconsistencies in crowd-source mapping. These empirical results demonstrate the potential of GeoAI to augment manual VGI mapping workflows to support timely downstream applications in urban planning, disaster response, and many other location-based services (LBSs). The findings also emphasize the need for robust Quality Assurance (QA) frameworks to address "AI slop" and ensure the reliability and consistency of GeoAI-generated data.
+AD  - Univ Coll Dublin, UCD Sch Architecture Planning & Environm Policy, Dublin D04V1W8, IrelandAD  - Univ Dublin, Sch Media Technol, Dublin D07EWV4, IrelandC3  - University College DublinFU  - Technological University Dublin College of Arts and Tourism, SEED FUNDING INITIATIVE 2019-2020
+FX  - This research is funded by Technological University Dublin College of Arts and Tourism, SEED FUNDING INITIATIVE 2019-2020.
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2073-445X
+J9  - LAND-BASEL
+JI  - Land
+DA  - OCT 1
+PY  - 2025
+VL  - 14
+IS  - 10
+C7  - 1978
+DO  - 10.3390/land14101978
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001603094600001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  4
+Cited Reference Count:  35
+ER  -
+
+TY  - JOUR
+AU  - Mukomberanwa, NT
+AU  - Madamombe, HK
+TI  - Next generation data-driven flood susceptibility modelling with spatial machine learning
+T2  - SCIENTIFIC AFRICAN
+LA  - English
+KW  - Geospatial artificial intelligence
+KW  - Hydrological hazard modelling
+KW  - Remote sensing
+KW  - Predictive analytics
+KW  - Urban resilience planning
+KW  - CONVOLUTIONAL NEURAL-NETWORKS
+KW  - RISK-ASSESSMENT
+KW  - HAZARD
+AB  - Accurate flood susceptibility assessment remains a critical challenge, yet spatial machine learning offers next-generation data-driven solutions for robust and scalable flood risk prediction. Traditional flood susceptibility models based on hydrodynamic and statistical approaches are often constrained by extensive data requirements, complex calibration, and high computational costs, which limit their application in data-scarce regions. This study advances existing approaches by integrating Multi-Criteria Decision Analysis (MCDA) and the Analytic Hierarchy Process (AHP) with spatial machine learning to optimize the weighting of flood conditioning factors prior to model training. Expert and literature derived weights for nine spatial predictors were normalized and used as input layers to three algorithms-Random Forests (RF), Support Vector Machines (SVM), and Convolutional Neural Networks (CNN)-for flood susceptibility mapping in Chinhoyi, Zimbabwe. A total of 564 flood and 925 non-flood locations were mapped using CNN, 432 flood and 564 non-flood locations using RF, and 569 flood and 908 non-flood locations using SVM. Model performance was assessed using accuracy metrics and receiver operating characteristics to determine predictive capability and generalization. Results revealed that CNN outperformed RF and SVM, producing superior spatial precision and reliability. The methodological integration of AHP-MCDA with deep spatial learning represents a novel advancement in flood susceptibility modelling, enhancing model generalization, interpretability, and applicability in data-limited environments. The study contributes to the advancement of geospatial artificial intelligence applications in hydrological hazard modelling, offering practical insights for resilient urban planning, early warning systems, and sustainable disaster risk management in vulnerable landscapes.
+AD  - Chinhoyi Univ Technol, Dept Geoinformat & Environm Conservat, P Bag 7724, Chinhoyi, ZimbabwePU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2468-2276
+J9  - SCI AFR
+JI  - Sci. Afr.
+DA  - DEC
+PY  - 2025
+VL  - 30
+C7  - e03082
+DO  - 10.1016/j.sciaf.2025.e03082
+C6  - NOV 2025
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001619328500001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  40
+ER  -
+
+TY  - JOUR
+AU  - Nigar, A
+AU  - Li, Y
+AU  - Baloch, MYJ
+AU  - Shafi, S
+AU  - Usman, AG
+TI  - Machine and deep learning for sentinel-based land use and land cover change detection: a systematic review and future outlook
+T2  - ENVIRONMENTAL MONITORING AND ASSESSMENT
+LA  - English
+KW  - Land use and land cover change
+KW  - Sentinel
+KW  - Deep learning
+KW  - Change detection
+KW  - Multimodal data fusion
+KW  - Transformer models
+KW  - Earth observation
+KW  - REMOTE-SENSING IMAGE
+KW  - SIAMESE NETWORK
+KW  - SATELLITE
+KW  - CLASSIFICATION
+KW  - METAANALYSIS
+KW  - SCIENCE
+AB  - Remote sensing has rapidly advanced with the integration of deep learning, enabling more accurate and scalable detection of land use and land cover (LULC) changes, particularly with the increasing availability of Sentinel-1 and Sentinel-2 multispectral imagery. This review traces the evolution of classical machine learning approaches toward modern deep learning architectures, including Convolutional Neural Networks (CNNs), encoder-decoder models, Siamese and dual-stream networks, attention-based frameworks, and, more recently, Transformer-based models. Recent developments in Earth observation foundation models, trained on large-scale, multimodal datasets, have introduced new capabilities, including zero-shot inference, cross-sensor transferability, and improved generalization across diverse geographic regions. Despite these advances, significant challenges remain. The fusion of multimodal data, including optical, SAR, and ancillary sources, is complicated by differences in spatial, spectral, and temporal characteristics. Furthermore, domain adaptation, label noise, and limited geographic transferability continue to constrain the robustness of change detection pipelines. The quantification of uncertainty and model interpretability has also become increasingly important for operational applications in urban planning, agriculture, ecosystem monitoring, and disaster response. In addition, the growing computational and environmental costs of large-scale model pretraining underscore the need for more sustainable AI practices. Future research should therefore focus on advancing the Earth observation foundation and generative models, developing temporal AI methods for long-term sequence analysis, and promoting responsible, energy-efficient geospatial artificial intelligence. Integrating advances in remote sensing, machine learning, and environmental science will be essential for building practical, scalable, and reliable planetary monitoring systems.
+AD  - Changchun Univ Sci & Technol, Sch Elect & Informat Engn, Changchun 130022, Peoples R ChinaAD  - Shandong Univ, Sch Environm Sci & Engn, Qingdao, Shandong, Peoples R ChinaAD  - Cent South Univ, Sch Geosci & Info Phys, Changsha 410083, Peoples R ChinaAD  - Near East Univ, Fac Pharm, Dept Analyt Chem, TR-99138 Mersin 10, TurkiyeAD  - Near East Univ, Operat Res Ctr Healthcare, TR-99138 Mersin 10, TurkiyeC3  - Changchun University of Science & TechnologyC3  - Shandong UniversityC3  - Central South UniversityC3  - Near East UniversityC3  - Near East UniversityFX  - The authors declare that no external funding was received for this work.
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0167-6369
+SN  - 1573-2959
+J9  - ENVIRON MONIT ASSESS
+JI  - Environ. Monit. Assess.
+DA  - JUN 23
+PY  - 2026
+VL  - 198
+IS  - 7
+C7  - 760
+DO  - 10.1007/s10661-026-15558-w
+C6  - JUN 2026
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001800893800002
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  164
+ER  -
+
+TY  - JOUR
+AU  - Georgati, M
+AU  - Hansen, HS
+AU  - Kessler, C
+TI  - Random Forest Variable Importance Measures for Spatial Dynamics: Case Studies from Urban Demography
+T2  - ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+LA  - English
+KW  - residential distribution
+KW  - machine learning
+KW  - population dynamics
+KW  - gridded data
+KW  - GeoAI
+KW  - RESIDENTIAL LOCATION CHOICE
+KW  - NON-EUROPEAN MIGRANTS
+KW  - ETHNIC SEGREGATION
+KW  - NEIGHBORHOOD CONCENTRATION
+KW  - NETHERLANDS
+KW  - PATTERNS
+KW  - FAMILY
+KW  - MODEL
+KW  - REPRESENTATION
+KW  - ASSIMILATION
+AB  - Population growth in urban centres and the intensification of segregation phenomena associated with international mobility require improved urban planning and decision-making. More effective planning in turn requires better analysis and geospatial modelling of residential locations, along with a deeper understanding of the factors that drive the spatial distribution of various migrant groups. This study examines the factors that influence the distribution of migrants at the local level and evaluates their importance using machine learning, specifically the variable importance measures produced by the random forest algorithm. It is conducted on high spatial resolution ( 100 x 100 grid cells) register data in Amsterdam and Copenhagen, using demographic, housing and neighbourhood attributes for 2018. The results distinguish the ethnic and demographic composition of a location as an important factor in the residential distribution of migrants in both cities. We also examine whether certain migrant groups pay higher prices in the most attractive areas, using spatial statistics and mapping for 2008 and 2018. We find evidence of segregation in both cities, with Western migrants having higher purchasing power than non-Western migrants in both years. The method sheds light on the determinants of migrant distribution in destination cities and advances our understanding of the application of geospatial artificial intelligence to urban dynamics and population movements.
+AD  - Aalborg Univ, Dept Sustainabil & Planning, DK-2450 Copenhagen, DenmarkAD  - Bochum Univ Appl Sci, Dept Geodesy, D-44801 Bochum, GermanyC3  - Aalborg UniversityC3  - Hochschule BochumFU  - EU Horizon 2020 Programme
+FX  - No Statement Available
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2220-9964
+J9  - ISPRS INT J GEO-INF
+JI  - ISPRS Int. J. Geo-Inf.
+DA  - NOV
+PY  - 2023
+VL  - 12
+IS  - 11
+C7  - 460
+DO  - 10.3390/ijgi12110460
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001168794700001
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  8
+Cited Reference Count:  89
+ER  -
+
+TY  - JOUR
+AU  - Yin, L
+AU  - Kim, S
+TI  - Piloting GenAI and GeoAI Curriculum for Urban Planning and Environmental Design Students
+T2  - JOURNAL OF MAP & GEOGRAPHY LIBRARIES
+LA  - English
+KW  - GenAI
+KW  - GeoAI
+KW  - urban planning curriculum
+KW  - environmental design students
+KW  - literacy
+KW  - GIS
+AB  - Artificial intelligence (AI) is rapidly transforming industries worldwide, yet AI literacy remains significantly underdeveloped, particularly in fields like urban planning and design. While the influence of GenAI and GeoAI is expanding across academic disciplines and programs, a noticeable gap exists in the literature regarding how urban planning and design education can effectively integrate these technologies. Historically, urban planning has been cautious about embracing new technologies, largely due to the inherent complexity of both the field and the urban systems it seeks to shape. However, GenAI and GeoAI hold immense potential to enhance planning and design practices by enabling more informed decision-making. It is essential to equip students with the skills and confidence to engage critically and creatively with these tools. This paper addresses the current educational shortfall by proposing course structures and pedagogical strategies that lay the groundwork for GenAI and GeoAI integration in planning curricula. By doing so, we aim to empower students, especially those who have traditionally struggled with or distrusted advanced technologies, to overcome barriers in data collection and analysis. Ultimately, this framework fosters not only technical proficiency but also a more open and innovative mindset toward the role of technology in shaping the development and growth of cities.
+AD  - Univ Buffalo, Dept Urban & Reg Planning, Buffalo, NY 14260 USAAD  - Univ Buffalo, Univ Lib, Res Collect & Outreach, Buffalo, NY USAC3  - University at Albany, SUNYC3  - University at Buffalo, SUNYC3  - State University of New York (SUNY) SystemC3  - University at Buffalo, SUNYC3  - State University of New York (SUNY) SystemC3  - University at Buffalo, SUNYPU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 1542-0353
+SN  - 1542-0361
+J9  - J MAP GEOGR LIBR
+JI  - J. Map Geogr. Libr.
+DA  - 2026 MAR 20
+PY  - 2026
+DO  - 10.1080/15420353.2026.2649496
+C6  - MAR 2026
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001729994500001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  41
+ER  -
+
+TY  - JOUR
+AU  - Avram, S
+TI  - Advancing Urban Analytics: GeoAI Applications in Spatial Decision-Making and Sustainable Cities
+T2  - URBAN SCIENCE
+LA  - English
+KW  - GeoAI
+KW  - urban analytics
+KW  - climate resilience
+KW  - spatial planning
+KW  - Global South
+KW  - social inclusion
+KW  - livable cities
+KW  - urban risks
+KW  - CRAIOVA CITY
+AB  - The rapid growth of geospatial data and advances in artificial intelligence (AI) have driven GeoAI's rise as a key paradigm in urban analytics. GeoAI methods support spatial planning, risk assessment, and policymaking in cities facing climate change, socio-economic disparities, and environmental challenges. Recent research highlights improvements in methodology, decision-making support, and impacts on resilience, social inclusion, and fair governance. However, this review also addresses ongoing issues such as data access, model transparency, ethical concerns, and the varying relevance across Global North and Global South contexts. It explores opportunities to use GeoAI to enhance climate resilience, alleviate poverty, foster inclusive urban strategies, and develop better cities, while suggesting future research to ensure that GeoAI advances are fair, transparent, and aligned with urban policy goals.
+AD  - Univ Craiova, Sci Fac, Geog Dept, Craiova 200585, RomaniaAD  - Romanian Acad, Natl Inst Econ Res Costin C Kiritescu, Bucharest 050725, RomaniaC3  - University of CraiovaC3  - National Institute for Economic Research Costin C. KiritescuC3  - Romanian AcademyPU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2413-8851
+J9  - URBAN SCI
+JI  - Urban Sci.
+DA  - MAR 11
+PY  - 2026
+VL  - 10
+IS  - 3
+C7  - 148
+DO  - 10.3390/urbansci10030148
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001726332300001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  2
+Cited Reference Count:  55
+ER  -
+
+TY  - CPAPER
+AU  - Adduri, SD
+AU  - Ali, T
+ED  - AlMansoori, S
+ED  - Kaur, N
+ED  - Haneef, M
+TI  - BREATHE: A GeoAI-Powered Air Quality Monitoring and Forecasting System for Urban Sustainability
+T2  - ISPRS GEOSPATIAL WEEK 2025, VOLUME XLVIII-G-2025
+LA  - English
+CP  - 2025 Geospatial Week-GSW
+KW  - Air Quality Monitoring
+KW  - Deep Learning
+KW  - Time-Series Forecasting
+KW  - Urban Sustainability
+KW  - Disaster Risk Reduction.
+AB  - Air pollution is one of the most important environmental and public health challenges of our time, and it uniquely impacts urban areas, especially in the rapidly developing countries of the UAE. Traditional air quality monitoring systems lack the predictive capabilities needed for proactive intervention and sustainable urban planning. The research proposes BREATHE-a system of integrated real-time monitoring and machine learning-based forecasting to address air pollution challenges in urban environments by using GeoAI. The research implements deep learning algorithms alongside geographical data to establish a scalable system for air quality management. BREATHE system features four essential aspects that include (1) real-time AQI checks at 12 locations across the UAE territory (2) predictive models for AQI forecasting through climatic and historical data analyses (3) interactive dashboards with mapping visuals and alert features and (4) AI-powered chatbot assistance along with non-specialist user-friendly accessibility. The data processing together with model deployment operates without interruptions through Python-based automation. By bridging the gap between monitoring and predictive analytics, this study presents a replicable framework for large-scale air quality management in urban environments worldwide.
+AD  - Amer Univ Sharjah, Dept Comp Sci & Engn, Sharjah, U Arab EmiratesAD  - Amer Univ Sharjah, Dept Civil Engn, Sharjah, U Arab EmiratesC3  - American University of SharjahC3  - American University of SharjahPU  - COPERNICUS GESELLSCHAFT MBH
+PI  - GOTTINGEN
+PA  - BAHNHOFSALLE 1E, GOTTINGEN, 37081, GERMANY
+SN  - 1682-1750
+SN  - 2194-9034
+J9  - INT ARCH PHOTOGRAMM
+PY  - 2025
+SP  - 39
+EP  - 46
+DO  - 10.5194/isprs-archives-XLVIII-G-2025-39-2025
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001752436300006
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  2
+Cited Reference Count:  36
+ER  -
+
+TY  - JOUR
+AU  - Aidaoui, A
+AU  - Dechaicha, A
+AU  - Alkama, D
+AU  - Menai, I
+AU  - Salah, HS
+TI  - Mapping Tomorrow's Cities: GeoAI Strategies for Sustainable Urban Planning and Land Use Optimization
+T2  - JOURNAL OF CONTEMPORARY URBAN AFFAIRS
+LA  - English
+KW  - Urbanization
+KW  - Urban Planning
+KW  - GeoAI Technologies
+KW  - LULC Analytics
+KW  - REMOTE-SENSING DATA
+KW  - CELLULAR-AUTOMATA
+KW  - COVER CHANGE
+KW  - NEURAL-NETWORK
+KW  - GROWTH
+KW  - MODEL
+KW  - SPRAWL
+KW  - ACCURACY
+KW  - PATTERNS
+KW  - IMPACTS
+AB  - As urbanization continues to shape the world's landscape, concerns have intensified over environmental degradation and depletion of natural resources. Accordingly, international agendas emphasize managing urban sprawl for inclusive, resilient, and sustainable cities. On this basis, this study consists of exploring the nexus of urbanization and advanced technologies following a methodological approach based on a bibliometric analysis using the Dimensions Database to analyse research related to urban sprawl and LULC Changes from 1994 to the recent years; and a systematic review to synthesize existing literature on different methodologies integrating GeoAI technologies and LULC Analytics in the process of monitoring landscape, which optimizes Urban Planning and empowers predictive modelling to monitor environmental changes, therefore, promoting intelligent decision-making and inclusive growth via enabling the creation of targeted policies that address socioeconomic disparities, environmental sustainability and infrastructure enhancement. By improving comprehension of scientific concepts, this article aims to fill the knowledge gap between urban studies and remote sensing using machine learning.
+AD  - Univ 08 Mai 1945, Fac Sci & Technol, Dept Architecture, Guelma, AlgeriaAD  - Univ Mouhamed Boudiaf, Fac Management Urban Tech, Urban Planning Dept, Msila, AlgeriaC3  - Universite 8 Mai 1945 de GuelmaPU  - ALANYA UNIV
+PI  - Alanya
+PA  - Cikcilli Mah Saraybeleni Cad No: 7, Alanya, Antalya, TURKIYE
+SN  - 2475-6156
+SN  - 2475-6164
+J9  - J CONTEMP URBAN AFF
+JI  - J. Contemp. Urban Aff.
+PY  - 2024
+VL  - 8
+IS  - 1
+SP  - 158
+EP  - 176
+DO  - 10.25034/ijcua.2024.v8n1-9
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001635760400009
+N1  - Times Cited in Web of Science Core Collection:  10
+Total Times Cited:  11
+Cited Reference Count:  77
+ER  -
+
+TY  - JOUR
+AU  - Wang, Y
+AU  - Zhu, D
+TI  - A hypergraph-based hybrid graph convolutional network for intracity human activity intensity prediction and geographic relationship interpretation
+T2  - INFORMATION FUSION
+LA  - English
+KW  - Spatial prediction
+KW  - Human activity
+KW  - High-order relationships
+KW  - Hypergraph
+KW  - Graph convolutional network
+KW  - Explainable artificial intelligence
+KW  - SPATIAL INTERACTION PATTERNS
+KW  - CROWD FLOWS
+KW  - LAW
+AB  - Human activity intensity prediction, i.e., estimating the dynamic population distribution, is crucial to many location-based applications, particularly intelligent transportation systems and urban planning. Geographical artificial intelligence (GeoAI) is an emerging field that has contributed many new modeling approaches for spatiotemporal phenomena, especially spatiotemporal graph neural networks (ST-GNNs). However, there are two challenges to the prediction of human activity intensity. On the one hand, accurate predictions require modeling not only pairwise spatial relationships, e.g., distance and spatial flow but also complex high-order relationships, such as clusters and groups. On the other hand, it is not appropriate to incorporate prior knowledge on the spatial structure of data with subjective assumptions using graphs with predefined topologies or weights. To mitigate such challenges, a novel deep learning-based model was proposed, namely, the Hypergraphbased Hybrid Graph Convolutional Network (HyGCN). In our study, high-order relationships are modeled by hypergraph convolutions, and pairwise relationships are captured in graph convolutions. A spatial fusion layer is added to fuse the pairwise and high-order relationships. Then, adaptive graph and hypergraph generation methods are proposed to interpret edge weights and understand the learned geographic relationships in accordance with principles. After systematic experiments on large-scale mobility data, our results demonstrate that HyGCN outperforms state-of-the-art models. The learned geospatial knowledge can be disentangled and explained from the perspectives of geographic principles. This study offers new insights for not only revisiting geographic laws in GeoAI but also utilizing spatiotemporal knowledge in deep learning models.
+AD  - Peking Univ, Inst Remote Sensing & Geog Informat Syst, Sch Earth & Space Sci, Beijing, Peoples R ChinaAD  - Univ Minnesota, Dept Geog Environm & Soc, Minneapolis, MN 55455 USAC3  - Peking UniversityC3  - University of Minnesota SystemC3  - University of Minnesota Twin CitiesFU  - New Faculty Set-up Funding, University of Minnesota [1000-10964-20042-5672018]; Seed Grants for Social Sciences Research, OFAA, CLA, University of Minnesota [1000-10964-21297-5672018]
+FX  - This work is supported by the New Faculty Set-up Funding, University of Minnesota (1000-10964-20042-5672018) and the Seed Grants for Social Sciences Research, OFAA, CLA, University of Minnesota (1000-10964-21297-5672018) . The authors would like to thank Prof. Yu Liu, Mr. Zhongfu Ma, Dr. Xiaojian Chen, Mr. Zhenghong Wang, Mr. Weiyu Zhang and the anonymous referees for their insightful comments.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 1566-2535
+SN  - 1872-6305
+J9  - INFORM FUSION
+JI  - Inf. Fusion
+DA  - APR
+PY  - 2024
+VL  - 104
+C7  - 102149
+DO  - 10.1016/j.inffus.2023.102149
+C6  - NOV 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001125729300001
+N1  - Times Cited in Web of Science Core Collection:  54
+Total Times Cited:  58
+Cited Reference Count:  69
+ER  -
+
+TY  - JOUR
+AU  - Al-Falluji, RA
+AU  - Albahar, MA
+TI  - OEF-LULC: An Optimized and Explainable AI-Based Framework for Land Use Land Cover Classification
+T2  - IEEE ACCESS
+LA  - English
+KW  - Accuracy
+KW  - Classification algorithms
+KW  - Remote sensing
+KW  - Sentinel-2
+KW  - Satellite images
+KW  - Optimization
+KW  - Classification tree analysis
+KW  - Land surface
+KW  - Machine learning
+KW  - Satellites
+KW  - Artificial intelligence
+KW  - computer vision
+KW  - data mining
+KW  - Earth observation
+KW  - environmental monitoring
+KW  - explainable AI
+KW  - GeoAI
+KW  - image classification
+KW  - land use land cover (LULC)
+KW  - machine learning
+KW  - mapping generation
+KW  - Optuna
+KW  - remote sensing
+KW  - sustainable development
+KW  - sustainable land management
+KW  - trustworthy AI
+AB  - Deep learning has made significant contributions for agriculture and environmental monitoring. However, it is often viewed as "unexplainable opaque model(s)", which limits its adoption and trust. An Optimized and Explainable AI-based Framework for Land Use Land Cover Classification (OEF-LULC) is proposed in this study. OEF-LULC integrates Optuna-based automated hyperparameter optimization with multiple CNN backbones, including ResNet18, DenseNet121, and EfficientNet-B0. The framework aims to support systematic and performance-aware model configuration while reducing the limitations of manual tuning. To address interpretability, post-hoc explainability techniques, including Local Interpretable Model-Agnostic Explanations (LIME) and Gradient-weighted Class Activation Mapping (Grad-CAM), are incorporated to provide transparent insights into model predictions. Experimental evaluation on the EuroSAT dataset under the adopted experimental setup demonstrates that OEF-LULC facilitates a balanced analysis of classification performance and interpretability, supporting informed and transparent decision analysis in remote sensing applications such as earth observation and urban planning.
+AD  - Al Nahrain Univ, Coll Informat Engn, Dept Automat & Artificial Intelligence Engn, Baghdad, IraqAD  - Umm Al Qura Univ, Coll Engn & Comp Al Lith, Dept Comp, Mecca 24381, Saudi ArabiaC3  - Al-Nahrain UniversityC3  - Umm Al-Qura UniversityFU  - Umm Al-Qura University, Saudi Arabia [26UQU4400257GSSR11]
+FX  - This work was supported by Umm Al-Qura University, Saudi Arabia, under Grant 26UQU4400257GSSR11.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 2169-3536
+J9  - IEEE ACCESS
+JI  - IEEE Access
+PY  - 2026
+VL  - 14
+SP  - 38745
+EP  - 38757
+DO  - 10.1109/ACCESS.2026.3672676
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001717555700036
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  30
+ER  -
+
+TY  - JOUR
+AU  - Yousefi, Z
+AU  - Alesheikh, AA
+AU  - Rezaie, F
+AU  - Lee, S
+TI  - An Explainable Geospatial Artificial Intelligence Approach for Spatiotemporal Assessment of Climate Change Effects on Landslide Susceptibility
+T2  - EARTH SYSTEMS AND ENVIRONMENT
+LA  - English
+KW  - Landslide susceptibility mapping
+KW  - Geospatial
+KW  - Machine learning
+KW  - Metaheuristic algorithms
+KW  - Climate change
+KW  - Feature importance
+KW  - SHALLOW LANDSLIDES
+KW  - RAINFALL
+KW  - PREDICTION
+KW  - ENSEMBLE
+KW  - FRAMEWORK
+KW  - IMPACTS
+KW  - AREAS
+KW  - IRAN
+AB  - Mountain landslides are projected to become more frequent and severe due to climate change. However, few studies have applied geospatial artificial intelligence methods to generate landslide susceptibility maps (LSMs) under climate change scenarios. We addressed this gap by modeling landslide susceptibility in Kermanshah Province, Iran. A geodatabase of historical landslides was developed. Non-landslide points were generated using a hybrid method combining Voronoi mapping and Shannon entropy. Sixteen static factors (e.g., slope, geology, soil texture, distance to roads, drainage density) and two dynamic factors, annual precipitation and precipitation of the wettest month, were considered influential in landslide occurrence. For spatiotemporal modeling, the random forest (RF) algorithm was optimized using four novel metaheuristic algorithms, namely, ladybug beetle optimizer, electric eel feeding optimizer (EEFO), Harris hawk optimizer, and arithmetic optimizer algorithm (AOA). The performances of standard and optimized RF models were evaluated based on the area under the receiver operating characteristic curve (AUC-ROC), accuracy, precision, recall, specificity, and root mean square error (RMSE). Among the optimized models, RF-AOA and RF-EEFO performed best, achieving AUC-ROC values of 96.75% and 95.02%, respectively. While RF-EEFO demonstrated slightly higher accuracy and recall, with a lower RMSE than RF-AOA, the RF-AOA model had the highest value in precision and specificity during the testing phase. It indicates the superior performance of RF-AOA in accurately identifying landslide occurrences within high-susceptibility areas and reducing misclassification in low-susceptibility areas, thereby establishing it as the most reliable model for practical landslide susceptibility mapping. Therefore, for future susceptibility assessment, the RF-AOA model was selected, and LSMs were generated for 20-year intervals from 2020 to 2100 based on the HadGEM3-GC31-LL climate projection model. Results indicated that areas with high and very high susceptibility may increase from approximately 24% to 31% by 2100, whereas moderate susceptibility may rise from 20.60% to 24.80%. The feature importance analysis showed that hydro-topographic factors, particularly distance to drainages, annual precipitation, and slope, exert the strongest influence on the predictive ability of standard and optimized RF-based models. These findings provide valuable insights into the relationship between climate change and landslide-prone areas, supporting climate risk reduction, land use planning, and disaster management in mountainous regions.Graphical AbstractThe graphical abstract provides a comprehensive visual summary of an explainable geospatial artificial intelligence-based framework developed to model landslide susceptibility under climate change. Historical landslide inventories and 18 influential factors (both static, such as slope and geology, and dynamic, such as precipitation), were used as input data. The multicollinearity issue was examined using variance inflation factor (VIF) analysis to ensure model robustness. Landslide and non-landslide samples were split into training and testing subsets at a ratio of 80:20. A standard random forest (RF) model was developed and further optimized using four metaheuristic algorithms: arithmetic optimization algorithm (AOA), electric eel feeding optimizer (EEFO), Harris hawk optimizer (HHO), and ladybug beetle optimizer (LBO).
+   The predictive performance of models was assessed using statistical metrics, including the area under the receiver operating characteristic curve (AUC-ROC) and root mean square error (RMSE). The RF-AOA and RF-EEFO models outperformed the others in detecting landslide-prone areas. Afterwards, future projections of landslide susceptibility maps were generated using RF-AOA method under three shared socioeconomic pathway (SSP) scenarios (SSP1-2.6, SSP2-4.5, SSP5-8.5) for four future time intervals (2021-2040, 2041-2060, 2061-2080, and 2081-2100). The results indicate an approximate 7% increase in areas with high and very high susceptibility by 2100. This research provides critical insights into climate-driven landslide hazards and offers a powerful decision-support tool for proactive land use planning and disaster risk mitigation in mountainous areas.
+AD  - KN Toosi Univ Technol, Fac Geodesy & Geomat Engn, Dept GIS, Tehran 1996715433, IranAD  - KN Toosi Univ Technol, Geospatial Big Data Computat & Internet Things IoT, Tehran 1996715433, IranAD  - Korea Univ Sci & Technol, Dept Geophys Explorat, 217 Gajeong Ro, Daejeon 34113, South KoreaAD  - Korea Inst Geosci & Mineral Resources KIGAM, Geosci Data Ctr, 124 Gwahak Ro, Daejeon 34132, South KoreaC3  - K. N. Toosi University of TechnologyC3  - K. N. Toosi University of TechnologyC3  - University of Science & Technology (UST)C3  - Korea Institute of Geoscience & Mineral Resources (KIGAM)FU  - Basic Research Project of the Korea Institute of Geoscience and Mineral Resources (KIGAM); National Research Foundation of Korea (NRF) - Korea government (MSIT) [2023R1A2C1003095]; K. N. Toosi University of Technology [458102]
+FX  - This research was supported by the Basic Research Project of the Korea Institute of Geoscience and Mineral Resources (KIGAM) and the National Research Foundation of Korea (NRF) grant funded by Korea government (MSIT) (No. 2023R1A2C1003095). Additionally, this work was based upon research supported by K. N. Toosi University of Technology under project No. 458102.
+PU  - SPRINGER INT PUBL AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2509-9426
+SN  - 2509-9434
+J9  - EARTH SYST ENVIRON
+JI  - Earth Syst. Environ.
+DA  - SEP
+PY  - 2026
+VL  - 10
+IS  - 5
+SP  - 6021
+EP  - 6049
+DO  - 10.1007/s41748-025-00949-9
+C6  - NOV 2025
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001624698200001
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  160
+ER  -
+
+TY  - JOUR
+AU  - Nezhad, MM
+AU  - Moradian, S
+AU  - Guezgouz, M
+AU  - Shi, XD
+AU  - Avelin, A
+AU  - Wallin, F
+TI  - A GIS-portal platform from the data perspective to energy hub digitalization solutions- A review and a case study
+T2  - RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+LA  - English
+KW  - GIS web portal platform
+KW  - Flexible platforms
+KW  - Digitalization
+KW  - Innovative actions
+KW  - Energy hub
+KW  - Wind energy digitalization
+KW  - Coupled Model Intercomparison Project Phase
+KW  - 6 (CMIP6)
+KW  - Digital elevation model
+KW  - Geospatial machine learning models
+KW  - INFORMATION-SYSTEM
+KW  - DATA-MANAGEMENT
+KW  - WARNING SYSTEM
+KW  - EARTH
+KW  - WIND
+KW  - PREDICTION
+KW  - ANALYTICS
+KW  - FRAMEWORK
+KW  - MODEL
+KW  - BIM
+AB  - The emergence of Geographic Information Systems (GIS) web platforms provides unique opportunities for human societies. GIS web platform technology has a two-way function, utilizing data obtained from physical and virtual environments to create harmony between the two. This review and case study paper examines the recent development and implementation of GIS web technology, focusing on urban areas and city scales. Firstly, this article reviews technology trends in online GIS web platform tools by identifying key features and applications, including their role in decision-making support. Secondly, it describes the GIS-Web platform, data sharing framework, the end-user services integrated, case study and project overview, platform digitalization as next generation. Thirdly, a new energy data portal called "NRGYHUB" is introduced for municipal urban areas in Va<spacing diaeresis>ster & aring;s City, Sweden. This GIS portal platform provides hourly data from thousands of energy meters, collected from electrical and heating energy networks to develop, maintain, and showcase a collection of city-wide GIS tools that assist in creating, implementing, and managing innovative services for urban planning in Va<spacing diaeresis>ster & aring;s City. Additionally, this paper presents a Geospatial Artificial Intelligence (GeoAI) approach for generating wind power projection maps using Machine Learning (ML) models which collectively aim to provide insightful wind power forecasts under the effects of climate change focusing on Va<spacing diaeresis>ster & aring;s. Time series data for each grid cell served as inputs for the Radial Basis Functions (RBF) models, incorporating wind speed projections from the Coupled Model Intercomparison Project Phase 6 (CMIP6) along with other influential variables, such as pressure gradient, temperature gradient, humidity, and Digital Elevation Model (DEM) data. The performance of the ML models was rigorously evaluated using multiple statistical metrics, including bias, Mean Absolute Error (MAE), Correlation Coefficient (Corr), Mean Error (ME), and Root Mean Square Error (RMSE). These metrics enabled a thorough assessment of the model's accuracy and bias-correction capabilities, ultimately improving the reliability of wind speed projections for the study area.
+AD  - Malardalen Univ, Future Energy Ctr, Dept Sustainable Energy Syst, Vasteras, SwedenAD  - Univ Galway, Coll Sci & Engn, Dept Civil Engn, Galway, IrelandAD  - Stockholm Univ, Dept Comp & Syst Sci, Stockholm, SwedenC3  - Malardalen UniversityC3  - Ollscoil na Gaillimhe-University of GalwayC3  - Stockholm UniversityFU  - KKS Synergy project; FLEXERGY (Energy Flexibility through Synergies of Big Data, Novel Technologies & Systems, and Innovative Markets) project [20200073]
+FX  - Support from KKS Synergy project, the FLEXERGY (Energy Flexibility through Synergies of Big Data, Novel Technologies & Systems, and Innovative Markets) project, grant number 20200073 is acknowledged. This article reflects only the author's views, and the Commission is not responsible for any use that may be made of the information it contains.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 1364-0321
+SN  - 1879-0690
+J9  - RENEW SUST ENERG REV
+JI  - Renew. Sust. Energ. Rev.
+DA  - NOV
+PY  - 2025
+VL  - 223
+C7  - 116019
+DO  - 10.1016/j.rser.2025.116019
+C6  - JAN 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001530259900001
+N1  - Times Cited in Web of Science Core Collection:  6
+Total Times Cited:  9
+Cited Reference Count:  245
+ER  -
+
+TY  - JOUR
+AU  - Rahaman, M
+AU  - Southworth, J
+AU  - Amanambu, AC
+AU  - Tefera, BB
+AU  - Alruzuq, AR
+AU  - Safaei, M
+AU  - Hasan, MM
+AU  - Smith, AC
+TI  - Combining deep learning and machine learning techniques to track air pollution in relation to vegetation cover utilizing remotely sensed data
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+LA  - English
+KW  - Deep learning
+KW  - Machine learning
+KW  - GeoAI
+KW  - Segmentation models
+KW  - Remote sensing
+KW  - Vegetation loss
+KW  - Air pollution
+KW  - Vegetation prediction
+KW  - ARTIFICIAL NEURAL-NETWORKS
+KW  - SUPPORT VECTOR MACHINE
+KW  - SULFUR-DIOXIDE
+KW  - PARTICULATE MATTER
+KW  - NITROGEN-DIOXIDE
+KW  - PLANT-RESPONSES
+KW  - CARBON-MONOXIDE
+KW  - AMBIENT AIR
+KW  - TREES
+KW  - IMPACTS
+AB  - The rapid urban expansion in Dhaka, the capital of Bangladesh, has escalated air pollution levels and led to a significant decrease in green spaces. This study employed machine learning (ML) and deep learning (DL) techniques to examine the relationship between rising concentrations of particulate matter (PM2.5 and PM10) and decreasing urban green spaces from 1990 to 2022. The ML algorithms, specifically XGB, SVM, and RF, effectively predicted high air pollution areas, while DL models Unet, Unet++, MAnet, and Linknet accurately forecasted vegetation cover trends. The findings confirm a strong negative correlation between increased air pollution and vegetation. The decline in green spaces is not only a local concern but also has broader regional implications due to the transboundary nature of air pollution. The results highlight the critical need for pollution management strategies and urban planning that prioritize green infrastructure. The study also emphasizes the value of using ML and DL techniques for accurate, data-driven environmental assessments and predictions. Future studies could incorporate high-resolution images and integrate socioeconomic data to achieve a more comprehensive perspective on the urban environmental challenges faced by rapidly developing cities like Dhaka. The use of an integrated ML and DL strategy as highlighted in this research appears to be a practical and economical method for tracking vegetation degradation and change, and in establishing the causal links to air pollution.
+AD  - Univ Florida, Dept Geog, 3141 Turlington Hall,330 Newell Dr, Gainesville, FL 32611 USAAD  - Univ Alabama, Dept Geog & Environm, Tuscaloosa, AL 35401 USAAD  - Imam Univ, Dept Geog & Geog Informat Syst, Riyadh, Saudi ArabiaC3  - State University System of FloridaC3  - University of FloridaC3  - University of Alabama SystemC3  - University of Alabama TuscaloosaC3  - Imam Mohammad Ibn Saud Islamic University (IMSIU)PU  - ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI  - LONDON
+PA  - 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN  - 0301-4797
+SN  - 1095-8630
+J9  - J ENVIRON MANAGE
+JI  - J. Environ. Manage.
+DA  - MAR
+PY  - 2025
+VL  - 376
+C7  - 124323
+DO  - 10.1016/j.jenvman.2025.124323
+C6  - FEB 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001423445700001
+N1  - Times Cited in Web of Science Core Collection:  14
+Total Times Cited:  15
+Cited Reference Count:  107
+ER  -
+
+TY  - JOUR
+AU  - Alkherret, AJ
+AU  - Alshafei, IA
+AU  - Alhusban, M
+AU  - Alkhawaldeh, AA
+AU  - Allouzi, R
+AU  - Al-Kfouf, S
+TI  - Evaluating GeoAI tools for urban resilience and sustainability: a survey-based analysis of disaster preparedness, climate adaptation, and adoption barriers using the technology acceptance model (TAM)
+T2  - FRONTIERS IN BUILT ENVIRONMENT
+LA  - English
+KW  - climate adaptation
+KW  - disaster preparedness
+KW  - GeoAI tools
+KW  - sustainability
+KW  - technology acceptance model (TAM)
+KW  - urban resilience
+AB  - Introduction This study examines user-reported perceptions of GeoAI tools in supporting urban resilience applications, particularly in disaster preparedness, climate adaptation, and sustainable development. It explores how Perceived Usefulness (PU) and Perceived Ease of Use (PEOU), based on the Technology Acceptance Model (TAM), influence the adoption of GeoAI tools in professional practice.Methods A survey was conducted with 149 professionals from the fields of urban planning, geomatics, and artificial intelligence. The study evaluated three widely used GeoAI tools-ArcGIS Pro, CityEngine, and QGIS with AI plug-ins-focusing on their perceived effectiveness in real-world urban resilience scenarios. Statistical analysis was used to assess the influence of PU and PEOU on tool adoption.Results ArcGIS Pro was rated as the most effective tool, particularly in disaster preparedness and climate adaptation, with a mean score of 4.6 out of 5.0. CityEngine and QGIS with AI plug-ins also received positive evaluations but exhibited higher barriers to adoption. Key challenges identified include data quality (65%), integration issues (55%), cost (50%), and lack of training (45%). The findings indicate that both PU and PEOU significantly influence adoption, with Perceived Usefulness emerging as the strongest predictor.Discussion The results highlight the critical role of usability and perceived value in the adoption of GeoAI tools for urban resilience. Addressing barriers such as data integration, cost, and training is essential to enhance adoption rates. Improving these factors can support more effective implementation of GeoAI technologies, ultimately strengthening urban resilience planning and decision-making.
+AD  - Jerash Univ, Fac Engn, Dept Civil Engn, Jerash, JordanAD  - Jerash Univ, Fac Engn, Dept Architectural Engn, Jerash, JordanAD  - Middle East Univ, Fac Engn & Design, Dept Civil Engn, Amman, JordanAD  - Philadelphia Univ, Fac Architecture & Design, Dept Architectural Engn, Amman, JordanAD  - Al Ahliyyah Amman Univ, Fac Architecture & Design, Amman, JordanC3  - Middle East UniversityC3  - Philadelphia University JordanC3  - Al-Ahliyya Amman UniversityPU  - FRONTIERS MEDIA SA
+PI  - LAUSANNE
+PA  - AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN  - 2297-3362
+J9  - FRONT BUILT ENVIRON
+JI  - Front. Built Environ.
+DA  - MAY 12
+PY  - 2026
+VL  - 12
+C7  - 1768360
+DO  - 10.3389/fbuil.2026.1768360
+C6  - MAY 2026
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001773715500001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  69
+ER  -
+
+TY  - JOUR
+AU  - Chen, YH
+AU  - Afandi, WS
+AU  - Gura, D
+AU  - Kosenok, Y
+TI  - A unified deep learning framework integrating OpenStreetMap for multi-domain urban planning tasks
+T2  - SCIENTIFIC REPORTS
+LA  - English
+KW  - Convolutional neural networks
+KW  - Deep learning
+KW  - GeoAI
+KW  - Intersection over union
+KW  - OpenStreetMap
+KW  - Recurrent neural networks
+KW  - Urban analytics
+AB  - Urban planning increasingly requires multi-source geospatial intelligence to address the complexity of modern cities. This study introduces a unified deep learning framework integrating OpenStreetMap (OSM) data with multispectral satellite imagery and demographic-environmental datasets. The framework employs task-specific architectures, including Convolutional Neural Networks (CNNs) for land-use classification, U-Net segmentation for building footprint extraction, Long Short-Term Memory (LSTM) networks for traffic flow prediction, and a hybrid CNN-RNN model for air-quality forecasting. The land-use model achieved 91.6% accuracy, the U-Net building footprint extractor reached 94.0% accuracy, the LSTM traffic model obtained an RMSE of 3.6 vehicles per hour, and the hybrid air-quality model achieved an RMSE of 2.3 & micro;g/m & sup3;. These metrics reflect performance on OSM-aligned datasets specifically curated for Krasnodar. The novelty of this work lies in establishing a multi-task, multi-source analytical workflow that unifies OSM, satellite, and temporal environmental data within a coherent deep learning system. The resulting framework provides urban planners with a scalable and low-cost approach for generating high-resolution urban intelligence to support sustainable city management.
+AD  - Neijiang Normal Univ, Sch Artificial Intelligence, Neijiang 641112, Peoples R ChinaAD  - King Abdulaziz Univ, Coll Business, Dept Management Informat Syst, Jeddah 21589, Saudi ArabiaAD  - Kuban State Technol Univ, Dept Cadaster & Geoengn, Krasnodar 350072, RussiaAD  - Kuban State Agr Univ, Dept Geodesy, Krasnodar 350044, RussiaAD  - Moscow Polytech Univ, Fed State Autonomous Educ Inst Higher Educ, Dept Environm Safety Tech Syst, Moscow 107023, RussiaAD  - Financial Univ Govt Russian Federat, Dept Life Safety, Fed State Educ Budgetary Inst Higher Educ, Moscow 115583, RussiaC3  - Neijiang Normal UniversityC3  - King Abdulaziz UniversityC3  - Kuban State Technological UniversityC3  - Kuban State Agrarian UniversityC3  - Moscow Polytechnic UniversityC3  - Financial University Under the Government of Russian FederationPU  - NATURE PORTFOLIO
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN  - 2045-2322
+J9  - SCI REP-UK
+JI  - Sci Rep
+DA  - MAR 27
+PY  - 2026
+VL  - 16
+IS  - 1
+C7  - 10870
+DO  - 10.1038/s41598-026-45927-x
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001730892200011
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  40
+ER  -
+
+TY  - JOUR
+AU  - Song, YM
+AU  - Wu, SB
+AU  - Chen, B
+AU  - Bell, ML
+TI  - Unraveling near real-time spatial dynamics of population using geographical ensemble learning
+T2  - INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+LA  - English
+KW  - Population spatialization
+KW  - Data fusion
+KW  - Social sensing
+KW  - AutoGluon
+KW  - Geospatial big data
+KW  - GeoAI
+KW  - Human mobility
+KW  - EXPOSURE
+KW  - DENSITY
+KW  - GREENSPACE
+KW  - CHINA
+AB  - Dynamic gridded population data are crucial in fields such as disaster reduction, public health, urban planning, and global change studies. Despite the use of multi-source geospatial data and advanced machine learning models, current frameworks for population spatialization often struggle with spatial non-stationarity, temporal generalizability, and fine temporal resolution. To address these issues, we introduce a framework for dynamic gridded population mapping using open-source geospatial data and machine learning. The framework consists of (i) delineation of human footprint zones, (ii) construction of muliti-scale population prediction models using automated machine learning (AutoML) framework and geographical ensemble learning strategy, and (iii) hierarchical population spatial disaggregation with pycnophylactic constraint-based corrections. Employing this framework, we generated hourly time-series gridded population maps for China in 2016 with a 1-km spatial resolution. The average accuracy evaluated by root mean square deviation (RMSD) is 325, surpassing datasets like LandScan, WorldPop, GPW, and GHSL. The generated seamless maps reveal the temporal dynamic of population distribution at fine spatial scales from hourly to monthly. This framework demonstrates the potential of integrating spatial statistics, machine learning, and geospatial big data in enhancing our understanding of spatio-temporal heterogeneity in population distribution, which is essential for urban planning, environmental management, and public health.
+AD  - Yale Univ, Sch Environm, New Haven, CT 06511 USAAD  - Univ Hong Kong, Fac Architecture, Div Landscape Architecture, Future Urban & Sustainable Environm FUSE Lab, Hong Kong, Peoples R ChinaAD  - Korea Univ, Coll Hlth Sci, Sch Hlth Policy & Management, Seoul, South KoreaC3  - Yale UniversityC3  - University of Hong KongC3  - Korea UniversityFU  - National Institute on Minority Health And Health Disparities of the National In- stitutes of Health [R01MD016054]
+FX  - Research reported in this publication was supported by the National Institute on Minority Health And Health Disparities of the National In- stitutes of Health under Award Number R01MD016054. The content is solely the responsibility of the authors and does not necessarily repre- sent the official views of the National Institutes of Health.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 1569-8432
+SN  - 1872-826X
+J9  - INT J APPL EARTH OBS
+JI  - Int. J. Appl. Earth Obs. Geoinf.
+DA  - JUN
+PY  - 2024
+VL  - 130
+C7  - 103882
+DO  - 10.1016/j.jag.2024.103882
+C6  - MAY 2024
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001237460200001
+N1  - Times Cited in Web of Science Core Collection:  20
+Total Times Cited:  22
+Cited Reference Count:  35
+ER  -
+
+TY  - JOUR
+AU  - Dodge, S
+AU  - Weibel, R
+AU  - Claramunt, C
+AU  - McArdle, G
+AU  - Zhou, ZY
+AU  - Xin, YA
+AU  - Graser, A
+AU  - Reichenbacher, T
+TI  - Movement Research in the Era of Big Data, AI, and Open Science
+T2  - ANNALS OF THE AMERICAN ASSOCIATION OF GEOGRAPHERS
+LA  - English
+KW  - big data
+KW  - GeoAI
+KW  - location privacy
+KW  - movement analytics
+KW  - open science
+KW  - PYTHON LIBRARY
+KW  - DATA FUSION
+KW  - MOBILITY
+KW  - GISCIENCE
+KW  - PATTERNS
+KW  - BEHAVIOR
+KW  - TWITTER
+KW  - MODEL
+AB  - The increasing availability of movement data and rapid advancements in artificial intelligence have opened new frontiers in movement pattern analysis with implications for a wide range of domains such as urban planning, transportation management, public health, pandemic management, disaster response, and wildlife conservation. The sensitive nature and heterogeneity of novel movement data, however, create technical and methodological challenges around data governance and open movement analytics. This article explores these challenges and identifies key opportunities for the geography discipline to drive analytical advances in human mobility research and open science. In this vision, the geographic perspective is emphasized in future developments of artificial intelligence for movement research for its ability to enrich mobility analyses with spatial and temporal context. Strategies for effective governance of large-scale mobility data are discussed, with special attention to fostering open science and reproducible research practices to ensure transparency and transferability in this rapidly evolving field.
+AD  - Univ Calif Santa Barbara, Dept Geog, Santa Barbara, CA 93106 USAAD  - Univ Zurich, Geog Informat Sci, Zurich, SwitzerlandAD  - Naval Acad Res Inst Lanveoc, Comp Sci, Lanveoc, FranceAD  - Univ Coll Dublin, Sch Comp Sci, Dublin, IrelandAD  - Univ Wisconsin Madison, Dept Geog, Madison, WI USAAD  - Delft Univ Technol, Dept Transport & Planning, Delft, NetherlandsAD  - Austrian Inst Technol, Vienna, AustriaAD  - Univ Zurich, Geog Informat Sci Ctr, Zurich, SwitzerlandC3  - University of California SystemC3  - University of California Santa BarbaraC3  - University of ZurichC3  - University College DublinC3  - University of Wisconsin SystemC3  - University of Wisconsin MadisonC3  - Delft University of TechnologyC3  - Austrian Institute of Technology (AIT)C3  - University of ZurichFU  - University of Zurich Digital Society Initiative; University of Zurich and ETH Collegium Helveticum; Division of Behavioral and Cognitive Sciences [BCE-2043202]; National Science Foundation [BCE-2043202]
+FX  - Somayeh Dodge gratefully acknowledges the support of the National Science Foundation (Award #BCS-2043202). Furthermore, this work was supported by fellowships from the ETH/UZH Collegium Helveticum and the University of Zurich's Digital Society Initiative during a sabbatical, which provided the foundational research and inspiration for this article.
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI  - ABINGDON
+PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN  - 2469-4452
+SN  - 2469-4460
+J9  - ANN AM ASSOC GEOGR
+JI  - Ann. Am. Assoc. Geogr.
+DA  - 2026 MAY 21
+PY  - 2026
+DO  - 10.1080/24694452.2026.2671994
+C6  - MAY 2026
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001787830600001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  127
+ER  -
+
+TY  - JOUR
+AU  - Lodhi, MK
+AU  - Tan, YM
+AU  - Suprijanto, A
+AU  - Naeem, S
+AU  - Li, Y
+TI  - GeoAI-Driven mapping of urban rooftop Photovoltaics: A sustainable energy framework for Karachi, Pakistan
+T2  - INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+LA  - English
+KW  - Rooftop Photovoltaics (RPV)
+KW  - Sustainable Energy
+KW  - Earth Observation
+KW  - GeoAI
+KW  - SEGMENTATION
+KW  - TEMPERATURE
+KW  - PERFORMANCE
+AB  - Rooftop Photovoltaics (RPV) offer a sustainable solution for renewable energy integration, leveraging urban landscapes to address environmental challenges such as carbon emissions and resource management. This study introduces a novel methodology for mapping and estimating RPV potential in Karachi, Pakistan, using earth observation data derived from satellite imagery. We developed a custom dataset of high-resolution satellite images capturing diverse solar panel configurations and employed an ensemble deep learning approach-combining UNet-ResNet50, DeepLabv3-ResNet50, Mask2Former-SwinTransformer, SamLoRA-vit_b, and PSPNet-ResNet50-to detect RPV installations with high precision. Through weighted majority voting, the ensemble model achieved superior accuracy, precision, recall, and F1-score compared to individual models, enhancing the reliability of geospatial mapping under variable urban and weather conditions. To estimate photovoltaic yield, we integrated spatiotemporal solar irradiance data with surface meteorological measurements, including ambient temperature, wind speed, and humidity, yielding an annual RPV potential of 602.83 GWh for Karachi, with a potential reduction of 0.37 megatons of CO2 equivalent. This GeoAI-driven framework serves as a foundational layer for an Urban Digital Twin, enabling dynamic modelling of RPV potential to support sustainable urban energy transitions. Additionally, we evaluated the economic feasibility of RPV deployment using levelized cost of electricity (LCOE) analysis. By advancing image processing and big spatiotemporal data analytics with GeoAI, this study provides a scalable framework for inventorying urban renewable energy resources, offering actionable insights for governance and sustainable land use planning.
+AD  - Beihang Univ, Hangzhou Int Innovat Inst, Hangzhou, Peoples R ChinaAD  - Beihang Univ, Sch Transportat Sci & Engn, Beijing 100191, Peoples R ChinaAD  - Natl Res & Innovat Agcy BRIN, Res Ctr remote sensing, Jakarta, IndonesiaAD  - Yangtze Univ, Coll Resources & Environm, Wuhan, Peoples R ChinaC3  - Beihang UniversityC3  - Beihang UniversityC3  - National Research & Innovation Agency of Indonesia (BRIN)C3  - Yangtze UniversityFU  - China Postdoctoral Science Foundation [2024 M764072]
+FX  - This work is support by the China Postdoctoral Science Foundation (2024 M764072) . We acknowledge the support of Hangzhou International Innovation Institute, Beihang University, Hangzhou, China, for providing the infrastructure and resources required for this study. We also extend our gratitude to Ms. Arooj Asif and Mr. Haroon for their technical and moral support during the course of this research.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 1569-8432
+SN  - 1872-826X
+J9  - INT J APPL EARTH OBS
+JI  - Int. J. Appl. Earth Obs. Geoinf.
+DA  - SEP
+PY  - 2025
+VL  - 143
+C7  - 104786
+DO  - 10.1016/j.jag.2025.104786
+C6  - AUG 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001554876900001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  3
+Cited Reference Count:  72
+ER  -
+
+TY  - JOUR
+AU  - Jiao, CJ
+AU  - Heitzler, M
+AU  - Hurni, L
+TI  - A novel framework for road vectorization and classification from historical maps based on deep learning and symbol painting
+T2  - COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+LA  - English
+KW  - Cartography
+KW  - Historical maps
+KW  - Road extraction
+KW  - Computer-based painting
+KW  - GeoAI
+KW  - EXTRACTION
+KW  - NETWORKS
+KW  - IMAGES
+AB  - Road networks in the past are imperative for understanding evolution of transportation infrastructure, urban sprawl, and route planning, etc. Various approaches have been developed for road extraction from historical maps, among which deep learning techniques stand out as the most effective ones. However, little attention has been paid to investigating road vectorization and classification from historical maps. Moreover, road classification via machine learning methods usually requires large amounts of dedicated training data. To address these issues, this paper proposes a novel and comprehensive framework for road vectorization and classification on the basis of road segmentation from historical maps. First, deep learning is used to get pixel-wise raster road segmentation results, which are further skeletonized using morphological operations. Then, considering that each road class is represented with a certain symbol, a painting function is defined for each class able to paint the corresponding symbol. These painting functions are then used to draw road segments along the skeletons. Since the start and end points in each painting function are used to vectorise the segment, this method achieves vectorization and classification at the same time. Our method is validated on four Siegfried map sheets in Switzerland, and evaluated via both visual and quantitative assessments. The results indicate that the method is capable of classifying roads accurately. In particular, two evaluation metrics completeness and correctness achieve 90.69% and 72.71% respectively for road class 2 which accounts for the highest portion in the map. Moreover, the results of this method avoid the saw-toothed issue of vectorised road lines. This research is beneficial for creating complete vector road network datasets with class information to support decision-making in urban planning and transportation.
+AD  - Swiss Fed Inst Technol, Inst Cartog & Geoinformat, Zurich, SwitzerlandAD  - Heitzler Geoinformat, Freiburg, GermanyC3  - Swiss Federal Institutes of Technology DomainC3  - ETH ZurichPU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0198-9715
+SN  - 1873-7587
+J9  - COMPUT ENVIRON URBAN
+JI  - Comput. Environ. Urban Syst.
+DA  - MAR
+PY  - 2024
+VL  - 108
+C7  - 102060
+DO  - 10.1016/j.compenvurbsys.2023.102060
+C6  - DEC 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:001139763400001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  17
+Cited Reference Count:  63
+ER  -
+
+TY  - JOUR
+AU  - Fang, L
+AU  - Yang, F
+AU  - Whang, M
+AU  - Ren, HG
+TI  - A recursive variational neural network framework for dynamic generation of urban street scenes
+T2  - RESULTS IN ENGINEERING
+LA  - English
+KW  - 3D Urban scene generation
+KW  - Focus-Driven recursive variational neural network
+KW  - Graph convolutional network
+KW  - Sustainable urban planning
+KW  - Complex urban systems
+KW  - Geospatial artificial intelligence
+AB  - Generating large-scale 3D urban street scenes from structured data is a key challenge in geospatial computing and urban simulation. Existing generative approaches often struggle to reuse semantically coherent local structures, to encode relational constraints beyond isolated objects, and to organize unbounded outdoor layouts in a controllable and physically consistent manner, which limits their applicability to complex road networks and heterogeneous roadside infrastructure. To address these challenges at the algorithmic level, this paper proposes FocusRvNN, a focus-driven recursive variational neural network framework based on variational autoencoders (VAEs) and scene graphs. The framework introduces a focus-driven attention mechanism to identify and cluster high-frequency geospatial substructures as reusable semantic building blocks, employs graph convolutional network (GCN) embeddings to encode inter-substructure spatial relations as conditional generation cues, and adopts a coarse-to-fine hierarchical assembly strategy to progressively compose large-scale layouts while enforcing physical and semantic consistency. The proposed framework is evaluated on the CarlaSC dataset, where it achieves an mIoU of 82.89% for layout consistency and generates a complete urban street scene in approximately 15 seconds under the tested hardware configuration. The generation pipeline is further integrated with Unreal Engine 5 to support interactive visualization and inspection, demonstrating its applicability primarily in simulated environments (evaluated on the synthetic CarlaSC dataset with supplementary semantic validation on the real-world Cityscapes dataset) to simulation-oriented workflows for urban planning studies and virtual environment design.
+AD  - Sangmyung Univ, Dept Emot Engn, Seoul 03016, South KoreaAD  - Hebei Univ Engn, Jingjinji Spatial Intelligent Percept Collaborat I, Handan 056009, Peoples R ChinaAD  - Sangmyung Univ, Dept Human Ctr Artificial Intelligence, Seoul 03016, South KoreaC3  - Sangmyung UniversityC3  - Hebei University of EngineeringC3  - Sangmyung UniversityFU  - National Natural Science Foundation of China (NSFC) [52578014]
+FX  - This research was funded by the National Natural Science Foundation of China (NSFC) , under Grant No. 52578014.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2590-1230
+J9  - RESULTS ENG
+JI  - Results Eng.
+DA  - JUN
+PY  - 2026
+VL  - 30
+C7  - 110119
+DO  - 10.1016/j.rineng.2026.110119
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001733256600001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  58
+ER  -
+
+TY  - JOUR
+AU  - Randhawa, S
+AU  - Aygün, E
+AU  - Randhawa, G
+AU  - Herfort, B
+AU  - Lautenbach, S
+AU  - Zipf, A
+TI  - Paved or unpaved? A deep learning derived road surface global dataset from mapillary street-view imagery
+T2  - ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING
+LA  - English
+KW  - GeoAI
+KW  - Mapillary street-view imagery
+KW  - Road surface
+KW  - Deep learning
+KW  - OpenStreetMap
+KW  - Computer vision models
+AB  - Road surface information is essential for applications in urban planning, disaster routing or logistics optimization and helps to address various Sustainable Development Goals (SDGS): especially SDGs 1 (No poverty), 3 (Good health and well-being), 8 (Decent work and economic growth), 9 (Industry, Innovation and Infrastructure), 11 (Sustainable cities and communities), 12 (Responsible consumption and production), and 13 (Climate action). We have released an open dataset with global coverage that provides road surface characteristics (paved or unpaved). The data was derived by a GeoAI approach that utilized 105 million images from the world's largest crowdsourcing-based street-view platform, Mapillary. We propose a hybrid deep learning approach which combines SWIN-Transformer based road surface prediction and CLIP-and-DL segmentation based thresholding for filtering of bad quality images. The road surface prediction results have been matched and integrated with OpenStreetMap (OSM) road geometries. Model validation against OSM surface data achieved strong performance, with F1 scores for paved roads varying between 91%-97% across continents. The dataset expands the availability of global road surface information by nearly four million kilometers compared to currently available information in OSM - now representing approximately 36% of the total length of the global road network. Most regions showed moderate to high paved road coverage (60%-80%), but significant gaps were noted in specific areas of Africa and Asia. Urban areas tend to have nearcomplete paved coverage, while rural regions displayed more variability. This information has the potential to derive more reliable estimations for indicators such as rural accessibility or regional economic development potential and to assist e.g. humanitarian actors in emergency logistic planning.
+AD  - HeiGIT gGmbH, Schloss Wolfsbrunnenweg 33, D-69118 Heidelberg, Baden Wurttembe, GermanyAD  - Heidelberg Univ, Inst Geog, GISci Chair, Neuenheimer Feld 368, D-69120 Heidelberg, Baden Wurttembe, GermanyAD  - Heidelberg Univ, Ctr Environm, Neuenheimer Feld 130-1, D-69120 Heidelberg, Baden Wurttembe, GermanyC3  - Ruprecht Karls University HeidelbergC3  - Ruprecht Karls University HeidelbergFU  - State of Baden-Wurttemberg through bwHPC; German Research Foundation (DFG) [INST 35/1597-1 FUGG, INST 35/1503-1 FUGG]; Ministry of Science, Research and the Arts Baden-Wurttemberg (MWK); Klaus-Tschira Stiftung
+FX  - We would like to express our sincere thanks to the HeiGIT CrowdMap web application team for their support in facilitating the creation of our labeled dataset. Special gratitude goes to the participants of the July 2023 mapathon at Heidelberg University, whose invaluable contributions helped classify a large number of Mapillary images. The authors would like to thank Dr. Michael Auer for his support on big data analytics and Clemens Langer for his initial involvement and assistance in data analysis and mapping. The authors gratefully acknowledge support for the High-Performance Computing Infrastructure by the state of Baden-Wurttemberg through bwHPC and the German Research Foundation (DFG) through grant INST 35/1597-1 FUGG. Moreover, the authors acknowledge the data storage service SDS@hd supported by the Ministry of Science, Research and the Arts Baden-Wurttemberg (MWK) and the German Research Foundation (DFG) through grant INST 35/1503-1 FUGG. We would like to extend our heartfelt thanks to the Klaus-Tschira Stiftung for their financial support.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0924-2716
+SN  - 1872-8235
+J9  - ISPRS J PHOTOGRAMM
+JI  - ISPRS-J. Photogramm. Remote Sens.
+DA  - MAY
+PY  - 2025
+VL  - 223
+SP  - 362
+EP  - 374
+DO  - 10.1016/j.isprsjprs.2025.02.020
+C6  - MAR 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001456779200001
+N1  - Times Cited in Web of Science Core Collection:  9
+Total Times Cited:  11
+Cited Reference Count:  57
+ER  -
+
+TY  - JOUR
+AU  - Anjanappa, G
+AU  - Elberink, SO
+AU  - Maiti, A
+AU  - Lin, YP
+AU  - Vosselman, G
+TI  - Map2ImLas: Large-scale 2D-3D airborne dataset with map-based annotations
+T2  - ISPRS OPEN JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING
+LA  - English
+KW  - Airborne data
+KW  - Topographic maps
+KW  - Semantic segmentation
+KW  - Object delineation
+KW  - 2D-3D multimodal data fusion
+KW  - Remote sensing
+KW  - Geospatial AI
+KW  - Deep learning
+KW  - Automated labeling
+KW  - OBJECT DETECTION
+KW  - LIDAR DATA
+KW  - OPENSTREETMAP
+KW  - INFORMATION
+AB  - Airborne data are commonly used in mapping, urban planning, and environmental monitoring. However, deep learning (DL) for these tasks is often limited by the lack of large-scale multimodal datasets that represent diverse landscapes and detailed classes. In this work, we present Map2ImLas, a large-scale dataset created using topographic maps and high-resolution airborne data from the Netherlands. The dataset includes 2413 spatially matching tiles of maps, 2D orthoimages, digital surface models, and 3D point clouds, covering approximately 217 km2 across urban, suburban, industrial, rural, and forested areas. Map2ImLas provides per-pixel and per-point annotations for 20 different classes, applicable to both 2D and 3D semantic segmentation, as well as vector polygons for object delineation tasks. The proposed labeling process is fully automated, dynamically aligning all data sources to generate structured and consistent annotations. The pipeline is scalable and can be adapted to other regions in the Netherlands with minimal changes. We also introduce a DL-based workflow for labeling trees in 3D point clouds, using map data as semantic priors. To support DL applications, we provide a two-fold data split with non-overlapping training, validation, and test tiles. The dataset is benchmarked using several state-of-the-art 2D and 3D segmentation models to demonstrate its usability for semantic segmentation tasks. While the present evaluation focuses on segmentation, the structured vector annotations also enable future research on boundary extraction and object delineation. Overall, Map2ImLas reduces the need for manual annotation by reusing existing map data and supports geospatial AI in large-scale mapping and semantic labeling for multimodal data.
+AD  - Univ Twente, Fac Geoinformat Sci & Earth Observat, NL-7522 NB Enschede, NetherlandsC3  - University of TwenteFU  - Open Technology Programme of the Dutch Research Council (NWO), The Netherlands [19206]
+FX  - This publication is part of the project "Learning from old maps to create new ones", project number 19206, funded by the Open Technology Programme of the Dutch Research Council (NWO), The Netherlands. The authors also thank ESRI Nederland for providing the true orthoimages used in this work.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2667-3932
+J9  - ISPRS OPEN J PHOTOGR
+JI  - ISPRS Open J. Photogramm. Remote Sens.
+DA  - JAN
+PY  - 2026
+VL  - 19
+C7  - 100112
+DO  - 10.1016/j.ophoto.2025.100112
+C6  - JAN 2025
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001650367500001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  90
+ER  -
+
+TY  - JOUR
+AU  - Wang, J
+AU  - Biljecki, F
+TI  - Unsupervised machine learning in urban studies: A systematic review of applications
+T2  - CITIES
+LA  - English
+KW  - GeoAI
+KW  - Urban planning
+KW  - GIScience
+KW  - Urban data science
+KW  - k-means
+KW  - Latent Dirichlet allocation
+KW  - RESIDENTIAL ENVIRONMENT QUALITY
+KW  - SELF-ORGANIZING MAPS
+KW  - METRO STATION AREAS
+KW  - PRINCIPAL COMPONENT
+KW  - CLUSTERING METHOD
+KW  - NETWORK APPROACH
+KW  - NEURAL-NETWORKS
+KW  - PATTERNS
+KW  - CITIES
+KW  - CITY
+AB  - Unsupervised learning (UL) has a long and successful history in untangling the complexity of cities. As the counterpart of supervised learning, it discovers patterns from intrinsic data structures without crafted labels, which is believed to be the key to real AI-generated decisions. This paper provides a systematic review of the use of UL in urban studies based on 140 publications. Firstly, the topic, technique, application, data type, and evaluation method of each paper are recorded, deriving statistical insights into the evolution and trends. Clus-tering is the most prominent method, followed by topic modeling. With the strong momentum of deep learning, a growing application field of UL methods is representing the complex real-world urban systems at multiple scales through multi-source data integration. Subsequently, a detailed review discusses how UL is applied in a broad range of urban topics, which are concluded by four dominant themes: urbanization and regional studies, built environment, urban sustainability, and urban dynamics. Finally, the review addresses common limitations regarding data quality, subjective interpretation, and validation difficulty of the results, which increasingly require interdisciplinary knowledge. Research opportunities are found in the rapidly evolving technological landscape of UL and in certain domains where supervised learning dominates.
+AD  - Natl Univ Singapore, Dept Architecture, Singapore, SingaporeC3  - National University of SingaporeFU  - National University of Singapore [R-295-000-171-133]
+FX  - We gratefully acknowledge the valuable comments by the editor and the four reviewers. We thank the members of the NUS Urban Analytics Lab for the discussions. This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start Up Grant R-295-000-171-133.
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0264-2751
+SN  - 1873-6084
+J9  - CITIES
+JI  - Cities
+DA  - OCT
+PY  - 2022
+VL  - 129
+C7  - 103925
+DO  - 10.1016/j.cities.2022.103925
+C6  - AUG 2022
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000845857300004
+N1  - Times Cited in Web of Science Core Collection:  144
+Total Times Cited:  171
+Cited Reference Count:  209
+ER  -
+
+TY  - JOUR
+AU  - He, T
+AU  - Lu, W
+TI  - OpenStreetMap-derived multimodal dataset across 23 cities: Paired urban morphology tiles with bioclimatic variables
+T2  - DATA IN BRIEF
+LA  - English
+KW  - Machine learning
+KW  - Geospatial AI
+KW  - Geographic information system
+KW  - Urban morphology
+KW  - Urban planning
+KW  - OpenStreetMap
+AB  - We present an OpenStreetMap-derived multimodal dataset spanning 23 cities and 11,711 tile-level samples. For each 768 x 768 m tile, we provide an aligned image pair: (i) a stylized ecological baseline that generalizes green and water features together with major roads and railways, and (ii) a target urban morphology map color-coded by functional building classes, transport infrastructure, green space, and water. Each sample includes latitude/longitude; the eight WorldClim v2.1 bioclimatic variables can be reconstructed locally with the provided script. The dataset is organized by city and indexed with JSONL records linking image paths and attributes, enabling direct integration into machine learning pipelines. Cross-city and cross-climate coverage supports training and evaluation of generative models for urban design, comparative analyses of morphology across climate regimes, and imputation of functional footprints in data-scarce regions. The ecological baseline represents a constructed pre-urban template rather than a historical map. (c) 2026 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)
+AD  - Liaoning Tech Univ, Sch Civil Engn, Fuxin, Liaoning, Peoples R ChinaC3  - Liaoning Technical UniversityPU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 2352-3409
+J9  - DATA BRIEF
+JI  - Data Brief
+DA  - APR
+PY  - 2026
+VL  - 65
+C7  - 112518
+DO  - 10.1016/j.dib.2026.112518
+C6  - JAN 2026
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001686717700001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  9
+ER  -
+
+TY  - JOUR
+AU  - Zhao, TH
+AU  - Liang, XC
+AU  - Tu, W
+AU  - Huang, ZD
+AU  - Biljecki, F
+TI  - Sensing urban soundscapes from street view imagery
+T2  - COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+LA  - English
+KW  - Urban planning
+KW  - GeoAI
+KW  - Perception
+KW  - Spatial analysis
+KW  - Deep learning
+KW  - Built environment
+KW  - TRAFFIC NOISE
+KW  - CITY
+KW  - PERCEPTIONS
+KW  - HEALTH
+AB  - A healthy acoustic environment is an essential component of sustainable cities. Various noise monitoring and simulation techniques have been developed to measure and evaluate urban sounds. However, sensing large areas at a fine resolution remains a great challenge. Based on machine learning, we introduce a new application of street view imagery - estimating large-area high-resolution urban soundscapes, investigating the premise that we can predict and characterize soundscapes without laborious and expensive noise measurements. First, visual features are extracted from street-level imagery using computer vision. Second, fifteen soundscape indicators are identified and a survey is conducted to gauge them solely from images. Finally, a prediction model is constructed to infer the urban soundscape by modeling the non-linear relationship between them. The results are verified with extensive field surveys. Experiments conducted in Singapore and Shenzhen using half a million images affirm that street view imagery enables us to sense large-scale urban soundscapes with low cost but high accuracy and detail, and provides an alternative means to generate soundscape maps. R2 reaches 0.48 by evaluating the predicted results with field data collection. Further novelties in this domain are revealing the contributing visual elements and spatial laws of soundscapes, underscoring the usability of crowdsourced data, and exposing in-ternational patterns in perception.
+AD  - Shenzhen Univ, Sch Architecture & Urban Planning, Shenzhen, Peoples R ChinaAD  - Natl Univ Singapore, Dept Architecture, Singapore, SingaporeAD  - Natl Univ Singapore, Dept Real Estate, Singapore, SingaporeC3  - Shenzhen UniversityC3  - National University of SingaporeC3  - National University of SingaporeFU  - Institutional Review Board of the National University of Singapore [NUS-IRB-2021-906]; Department of Education of Guangdong Province; National Science Foundation of China [42071360]; Technology Project of The Science and Technology Commission of Shenzhen [JSGG20201103093401004]; Guangdong Science and Technology Strategic Innovation Fund [2020B1212030009]; National University of Singapore [R-295-000-171-133]; Shenzhen Key Laboratory of Digital Twin Technologies for Cities Grant [ZDSYS20210623101800001]
+FX  - We gratefully acknowledge the participants of the survey and the input data, and the helpful comments received during the review process. We thank the members of the NUS Urban Analytics Lab and Fei Qu (Shenzhen University) for the discussions. The Institutional Review Board of the National University of Singapore has reviewed and approved the ethical aspects of this research (reference code NUS-IRB-2021-906) . The first author has been supported by Department of Education of Guangdong Province. This research is part of the projects (i) National Science Foundation of China (42071360) and The TechnologyProject of The Science and Technology Commission of Shenzhen (JSGG20201103093401004) ; (ii) The Guangdong-Hong Kong-Macau Joint Laboratory Program, which is supported by The Guangdong Science and Technology Strategic Innovation Fund Grant 2020B1212030009; (iii) Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start Up Grant R-295-000-171-133. and (iv) Shenzhen Key Laboratory of Digital Twin Technologies for Cities Grant ZDSYS20210623101800001.
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0198-9715
+SN  - 1873-7587
+J9  - COMPUT ENVIRON URBAN
+JI  - Comput. Environ. Urban Syst.
+DA  - JAN
+PY  - 2023
+VL  - 99
+C7  - 101915
+DO  - 10.1016/j.compenvurbsys.2022.101915
+C6  - NOV 2022
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000900069600001
+N1  - Times Cited in Web of Science Core Collection:  115
+Total Times Cited:  128
+Cited Reference Count:  85
+ER  -
+
+TY  - JOUR
+AU  - Sattar, T
+AU  - Mirza, NF
+AU  - Javed, MA
+AU  - Nasar-u-Minallah, M
+AU  - Malik, S
+TI  - Changing pattern of urban landscape and its impact on thermal environment of Lahore; Implications for climate change and sustainable development
+T2  - ENVIRONMENTAL MONITORING AND ASSESSMENT
+LA  - English
+KW  - Landscape
+KW  - Thermal environment
+KW  - Urban sprawl
+KW  - Sustainable Development
+KW  - Lahore
+KW  - LAND-USE
+KW  - CLASSIFICATION
+KW  - URBANIZATION
+KW  - EMISSION
+AB  - Rapid urbanization in Lahore has dramatically transformed land use and land cover (LULC), significantly impacting the city's thermal environment and intensifying climate change and sustainable development challenges. This study aims to examine the changes in the urban landscape of Lahore and their impact on the Urban thermal environment between 1990 and 2020. The previous studies conducted on Lahore lack the application of Geospatial artificial intelligence (GeoAI) to quantify land use and land cover, which is successfully covered in this study. This study analyzes how urban sprawl has driven LULC shifts and assesses their direct impact on Land Surface Temperature (LST) using Geographic Information System (GIS) and remote sensing techniques. Landsat imagery, processed using Google Earth Engine (GEE), was employed for LULC classification and LST calculation, ensuring high accuracy through multi-level change detection and a thorough accuracy assessment. Pearson's correlation was also calculated in this study to assess the impact of decreased green cover on LST. The findings highlight a substantial decrease in green cover, from 1,292.8 km2 in 1990 to 754 km2 in 2020, alongside a marked increase in built-up areas, expanding from 262 km2 to over 550 km2. Additionally, barren land showed significant growth, while water bodies diminished. The spatiotemporal analysis of LST indicates a considerable rise in high-temperature zones, specifically the industrial zones, with areas exceeding 40 degrees C expanding from 2 km2 to 1,075 km2 over the study period. A strong positive correlation between increased urbanization and rising LST, particularly in areas within a 10 to 40 km radius of the Central Business District (CBD), is evident. The overall accuracy of LULC classification surpassed 94%, with the kappa coefficient above 92%, ensuring the robustness of the results. Future research should focus on evaluating the long-term socioeconomic impacts of urban sprawl and LST increment while developing heat mitigation strategies. Recommendations include adopting sustainable urban planning practices prioritizing green infrastructure, energy-efficient building designs, and policies promoting environmental preservation. This study offers valuable insights for policymakers and underscores the urgency of balancing urban growth with strategies that mitigate thermal stress, combat climate change, and foster sustainable development in Lahore.
+AD  - Univ Punjab, Coll Earth & Environm Sci, Lahore 54000, PakistanAD  - Univ Punjab, Inst Geog, Lahore 54000, PakistanC3  - University of PunjabC3  - University of PunjabPU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0167-6369
+SN  - 1573-2959
+J9  - ENVIRON MONIT ASSESS
+JI  - Environ. Monit. Assess.
+DA  - JAN 9
+PY  - 2025
+VL  - 197
+IS  - 2
+C7  - 151
+DO  - 10.1007/s10661-024-13559-1
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001394949600001
+N1  - Times Cited in Web of Science Core Collection:  24
+Total Times Cited:  26
+Cited Reference Count:  58
+ER  -
+
+TY  - JOUR
+AU  - Das, S
+AU  - Morshed, MM
+TI  - A GeoAI framework for detecting risk zones from illegal dumping sites in Khulna, Bangladesh
+T2  - PLOS ONE
+LA  - English
+KW  - SOLID-WASTE DISPOSAL
+KW  - MANAGEMENT
+KW  - CONSTRUCTION
+KW  - CLASSIFICATION
+KW  - SYSTEM
+KW  - IMPACT
+KW  - AREAS
+AB  - Illegal dumping is a major challenge of municipal solid waste management. A significant portion of waste is dumped illegally in cities worldwide. This improper waste disposal creates serious ecological degradation, environmental hazards, public health risks, and urban planning challenges. This study presents a Positive-Unlabeled (PU) learning framework for detecting illegal dumping sites using GeoAI. Seven machine learning algorithms were trained on 70% of 341 confirmed illegal dumping sites across 10 m & times; 10 m resolution grids covering Khulna City Corporation, Bangladesh. The remaining 30% of the data was reserved for independent testing. The best model was selected using a weighted composite score combining the Area Under the Curve (AUC) and F1 score from spatial cross-validation, and the selected best model was subsequently evaluated on an independent hold-out test set. Random Forest achieved the highest AUC (0.883) and F1 score (0.820), and consistently outperformed other models across all weighting schemes. The three most influential predictors of illegal dumping were proximity to roads, drains, and buildings. The predicted risk map shows that the very high and high-risk zones are concentrated along roads and urban centers. This study introduces the first GeoAI framework for illegal dumping site detection in Khulna, Bangladesh. This framework can also be applied in other cities to detect illegal dumping sites at the community level. This methodology can help municipal authorities to develop a waste management plan that addresses both illegal dumping challenges and long-term infrastructure planning.
+AD  - Khulna Univ Engn & Technol KUET, Dept Urban & Reg Planning, Khulna, BangladeshC3  - Khulna University of Engineering & Technology (KUET)PU  - PUBLIC LIBRARY SCIENCE
+PI  - SAN FRANCISCO
+PA  - 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN  - 1932-6203
+J9  - PLOS ONE
+JI  - PLoS One
+DA  - MAR 18
+PY  - 2026
+VL  - 21
+IS  - 3
+C7  - e0345178
+DO  - 10.1371/journal.pone.0345178
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001718833700005
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  70
+ER  -
+
+TY  - JOUR
+AU  - Lamonaca, F
+TI  - Monitoring urban dynamics using Google Earth and GeoAI
+T2  - TEMA-JOURNAL OF LAND USE MOBILITY AND ENVIRONMENT
+LA  - English
+KW  - Built-up monitoring
+KW  - Measurements
+KW  - Artificial intelligence
+KW  - Google earth engine
+KW  - Unsupervised K-means clustering
+KW  - BIG DATA APPLICATIONS
+KW  - LAND-USE
+KW  - COVER CHANGE
+KW  - METAANALYSIS
+KW  - IMAGERY
+KW  - ENGINE
+AB  - Urban areas face mounting pressure from increased space demand, degrading key environmental services. Thus, understanding Land Use/Land Cover (LULC) changes is vital. In order to offer a robust decision-support framework for urban planning and environmental conservation, this study presents an innovative measurement method based on Google Earth Engine and Unsupervised K-means Clustering of multispectral satellite images to map urban and vegetation shifts. The proposed method was applied in 15 southern Italian cities and the results were validated with ESA Land Cover dataset. Results show 167 hectares consumed from 2005 to 2021. The proposed unsupervised classification achieved favorable F1-scores, with 0.64 for urban areas and 0.92 for vegetation, demonstrating strong performance despite the challenges of classifying diverse 30 m Landsat land cover types. For these reasons, these results show the potential to make the proposed method a useful tool for aiding policymakers and urban planners in making informed decisions to mitigate the adverse effects of urban growth on the environment.
+AD  - Univ Calabria, Dept Comp Engn Modeling Elect & Syst Engn, Arcavacata Di Rende, CS, ItalyAD  - CNR, Inst Nanotechnol, CNR, NANOTEC, Arcavacata Di Rende, CS, ItalyC3  - University of CalabriaC3  - Consiglio Nazionale delle Ricerche (CNR)C3  - Istituto di Nanotecnologia (NANOTEC-CNR)PU  - UNIV STUDI NAPOLI FEDERICO II, DIPT PIANIFICAZIONE & SCIENZA TERRITORIO
+PI  - NAPLES
+PA  - PIAZZALE TECCHIO 80, NAPLES, 80125, ITALY
+SN  - 1970-9889
+SN  - 1970-9870
+J9  - TEMA
+JI  - TeMA
+DA  - APR
+PY  - 2026
+VL  - 19
+IS  - 1
+SP  - 189
+EP  - 200
+DO  - 10.6093/1970-9870/11343
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001759096900011
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Mitic, J
+AU  - Ilic, V
+AU  - Durlevic, U
+AU  - Mitic, M
+TI  - Spectral Input Selection and Architectural Design for Robust Multispectral Land Cover Semantic Segmentation from Sentinel-2 Imagery
+T2  - AI
+LA  - English
+KW  - multispectral feature analysis
+KW  - Sentinel-2 data
+KW  - deep neural networks
+KW  - cross-regional generalization
+KW  - geospatial artificial intelligence
+KW  - land use
+KW  - remote sensing
+KW  - CLASSIFICATION
+KW  - SCIENCE
+AB  - Background/Objectives: Accurate land cover mapping from multispectral Sentinel-2 imagery is fundamental for environmental monitoring, efficient natural resource management, and spatial planning. While deep learning has become the dominant approach for semantic segmentation, the combined impact of spectral input selection and network architecture on cross-regional robustness remains insufficiently explored. This study systematically investigates multispectral land cover segmentation in Serbia and evaluates its transferability to Western Balkan regions using a structured experimental framework. Methods: A comprehensive band-combination ablation analysis (3-10 spectral bands and index-only inputs) was first conducted using Attention U-Net, followed by a comparative evaluation of representative convolutional and transformer-based architectures, including ResNet-UNet-50, ConvNeXt-UNet, DeepLabV3+ (ResNet-50), and DINOv2-S/14. Model performance is evaluated on an internal Serbian test split (Test SR), an external Serbian dataset (Ext SR), and a cross-regional Balkan dataset (Ext WB). Results: The results demonstrate that compact multispectral configurations (6-9 bands) provide the most stable performance, achieving mIoU values of approximately 0.72-0.74 under in-domain evaluation and remaining robust under external testing. The inclusion of near-infrared and shortwave infrared bands proved critical for effective land cover discrimination, whereas increasing spectral dimensionality beyond this range did not yield systematic improvements in external robustness. Notably, the magnitude of performance degradation under pronounced geographic domain shift exceeds the performance differences observed between architectures under in-domain conditions, indicating that distribution shift exerts a stronger influence on segmentation accuracy than model choice alone. Class-wise analysis revealed agricultural areas as the most domain-sensitive category, while Shapley-based explainability analysis provides additional insight into class-specific spectral dependencies and their role in generalization behavior. Conclusions: Although transformer-based models demonstrated competitive robustness, attention-enhanced convolutional architectures achieved comparable stability across evaluation scenarios. Overall, the findings emphasize the importance of balanced spectral design, class-aware robustness analysis, and explicit out-of-domain evaluation for developing transferable land cover segmentation models in remote sensing applications.
+AD  - Inst Artificial Intelligence Res & Dev Serbia, Novi Sad 21000, SerbiaAD  - Jovan Cvijic Serbian Acad Sci & Arts, Geog Inst, Djure Jaksica 9, Belgrade 11000, SerbiaAD  - Univ Nis, Fac Sci & Math, Visegradska 33, Nish 18000, SerbiaC3  - Serbian Academy of Sciences & ArtsC3  - University of NisFU  - Ministry of Science, Technological Development and Innovation of the Republic of Serbia [451-03-33/2026-03/200172]
+FX  - Uro & scaron; Durlevi & cacute; acknowledges the support of the Ministry of Science, Technological Development and Innovation of the Republic of Serbia (Contract No. 451-03-33/2026-03/200172).
+PU  - MDPI
+PI  - BASEL
+PA  - MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN  - 2673-2688
+J9  - AI-BASEL
+JI  - AI
+DA  - MAY 23
+PY  - 2026
+VL  - 7
+IS  - 6
+C7  - 186
+DO  - 10.3390/ai7060186
+C6  - MAY 2026
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001801702900001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  37
+ER  -
+
+TY  - JOUR
+AU  - Ye, XY
+AU  - Spencer, JNH
+AU  - Li, W
+AU  - Kang, YH
+AU  - Zandiatashbar, A
+AU  - Kim, J
+AU  - Feng, XX
+TI  - From vision to practice: five years of responsible Urban AI and community insight
+T2  - FRONTIERS OF URBAN AND RURAL PLANNING
+LA  - English
+KW  - Urban artificial intelligence
+KW  - Planning governance
+KW  - GeoAI
+KW  - Interdisciplinary collaboration
+KW  - Responsible AI
+KW  - COPRODUCTION
+AB  - This paper examines how artificial intelligence can be responsibly integrated into urban planning institutions, education, and community decision making. It explores the socio-technical frameworks needed to ensure that Urban AI supports equitable, transparent, and effective planning practice beyond methodological innovation alone. The study synthesizes insights from the fifth Urban AI in Planning roundtable held at the 2025 Association of Collegiate Schools of Planning Annual Conference. Drawing on five years of interdisciplinary dialogue, the paper applies qualitative thematic analysis to discussions among scholars and practitioners in geography, planning, architecture, AI, transportation, and professional design practice. Three interconnected themes emerge. First, Urban AI is most effective when functioning as a decision-support capacity amplifier that complements rather than replaces human judgment. Second, uneven geographies of data availability, privacy expectations, and model performance create disparities across urban, rural, and resource-constrained settings. Third, interdisciplinary collaboration, planning education, and community engagement are essential for developing trustworthy and socially responsive AI systems. Across these themes, persistent concerns include data bias, transparency, governance, and ethical accountability. The paper argues that the future of Urban AI depends not only on technological advancement but also on robust socio-technical frameworks integrating ethical oversight, place-sensitive interpretation, interdisciplinary cooperation, and participatory knowledge production. Responsible Urban AI therefore requires alignment with institutional practices, governance systems, and community values to enhance planning legitimacy, inclusiveness, and long-term societal trust.
+AD  - Univ Alabama, Dept Geog & Environm, Tuscaloosa, AL 35487 USAAD  - Univ Alabama, Alabama Geospatial AI & Informat Sci Hub, Tuscaloosa, AL 35487 USAAD  - Louisiana State Univ, Coll Art & Design, Baton Rouge, LA 70802 USAAD  - Texas A&M Univ, Dept Landscape Architecture & Urban Planning, College Stn, TX 77840 USAAD  - Univ Texas, Dept Geog & Environm, Austin, TX 78712 USAAD  - San Jose State Univ, Dept Urban & Reg Planning, San Jose, CA 95192 USAAD  - Virginia Tech, Dept Geog, Blacksburg, VA 24061 USAAD  - Tongji Architectural Design Grp Co Ltd, Shanghai 200092, Peoples R ChinaFU  - National Science Foundation [2323419, 2401860, 2430700, 2526487]
+FX  - This material is partially based upon work supported by the National Science Foundation under 2323419, 2401860, 2430700, and 2526487. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and the funders have no role in the study design, data collection, analysis, or preparation of this article.
+PU  - SPRINGERNATURE
+PI  - LONDON
+PA  - THE CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN  - 2731-6661
+J9  - FRONT URBAN RURAL PL
+JI  - Front. Urban Rural Plan.
+DA  - AUG 17
+PY  - 2026
+VL  - 4
+IS  - 1
+C7  - 20
+DO  - 10.1007/s44243-026-00093-6
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001850142100001
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  28
+ER  -
+
+TY  - JOUR
+AU  - Imroz, M
+AU  - Akhtar, MP
+AU  - Sharma, MK
+AU  - Alshehri, F
+TI  - Integrated assessment of urban flooding and heat island interactions: A systematic review of geospatial technologies, machine learning approaches, and microclimate dynamics
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+LA  - English
+KW  - Urban flooding
+KW  - Urban Heat Island
+KW  - Microclimate
+KW  - Machine learning
+KW  - Spatiotemporal analysis
+KW  - Google Earth Engine
+KW  - IMPACT
+KW  - CITY
+AB  - Urban flooding and the Urban Heat Island (UHI) impact are two crucial challenges driven by rapid urbanization and climate change. Understanding their linked dynamics and shared influencing factors is crucial for effective mitigation. However, despite extensive advancements, there are still certain gaps in incorporated analytical frameworks that signify the reciprocal spatio-temporal interplay among these phenomena, especially regarding microclimate variations and Land Use and Land Cover (LULC) changes and vice versa. This comprehensive review highlights the systematic evolution and the crucial significance of LULC, microclimate variables, and empirical and GIS-based techniques, incorporating machine learning approaches, while rigorously evaluating more than seventy-four reported scientific studies. Approximately 30-32 percent of studies employed hybrid learning models (e.g., CNN-LSTM) to examine UHI, while 60-65 percent used ensemble techniques (e.g., Random Forest, Gradient Boosting) for flood danger analysis. Deep learning is an effective tool for modelling complicated, nonlinear relationships, whereas ensemble models are valued for interpretability and multi-source information integration. However, the sector lacks scalable, models leveraging real-time IoT statistics and accounting for urban morphological and climatic variability. By synthesizing cutting-edge findings, this overview offers insights into the bodily and data-driven interlinkages between urban flooding and UHIs, supporting more resilient and sustainable city planning. Urban flooding and UHI phenomenon are critical urban climate challenges, and their interactions amplify hydrological and thermal stresses, threatening urban livability, infrastructure resilience, and public health. Despite advances in machine learning and geospatial technologies, most of the previous studies examine UHI and flooding separately, overlooking microclimatic variations, urban morphology, real-time IoT integration, and model transferability. This review synthesizes recent geospatial and AI-based approaches to assessing UHI-urban flood interactions and identifies key methodological and geographical gaps. A unified data-driven framework is proposed to simulate compound hazards and enhance urban climate resilience. Peer-reviewed studies reported during the time span of 2010-2025 were systematically reviewed using the PRISMA 2020 protocol, with literature sourced from Scopus, Web of Science, ScienceDirect, and Google Scholar. Studies were categorized by hazard type, analytical technique, and validation metrics (RMSE, R2, MAE). Ensemble machine learning methods, notably Random Forest and Gradient Boosting, dominated flood modelling (61-65 %), while CNN-LSTM hybrid models were mostly used for UHI (30-32 %). CNN-LSTM performed best for moderate-resolution spatiotemporal data, whereas transformers and graph neural networks (GNNs) excelled for complex, large-scale scenarios. Key gaps include model interpretability and IoT integration. Transparent, geospatial AI frameworks are essential for data-driven, climate-resilient urban planning.
+AD  - Manipal Univ Jaipur, Sch Engn SCE, Dept Civil Engn, Jaipur, IndiaAD  - Univ Bisha, Coll Engn, Dept Civil Engn, POB 551, Bisha 67614, Saudi ArabiaC3  - Manipal University JaipurC3  - University of BishaFU  - Deanship of Graduate Studies and Scientific Research at the University of Bisha; Manipal University Jaipur
+FX  - The authors are thankful to the Deanship of Graduate Studies and Scientific Research at the University of Bisha for supporting this work through the Fast-Track Research Support Program. Authors are also thankful to Manipal University Jaipur for supporting this work.
+PU  - ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI  - LONDON
+PA  - 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN  - 0301-4797
+SN  - 1095-8630
+J9  - J ENVIRON MANAGE
+JI  - J. Environ. Manage.
+DA  - DEC
+PY  - 2025
+VL  - 395
+C7  - 127984
+DO  - 10.1016/j.jenvman.2025.127984
+C6  - NOV 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001619694300001
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  72
+ER  -
+
+TY  - JOUR
+AU  - Wang, ZH
+AU  - Brenning, A
+TI  - Unsupervised active-transfer learning for automated landslide mapping
+T2  - COMPUTERS & GEOSCIENCES
+LA  - English
+KW  - Active learning
+KW  - Transfer learning
+KW  - GeoAI
+KW  - Landslide mapping
+KW  - SUSCEPTIBILITY
+KW  - KNOWLEDGE
+KW  - TERRAIN
+AB  - Detailed landslide inventories are required for multiple purposes including disaster damage assessments, susceptibility mapping for spatial planning, and disaster risk reduction. Active learning is an artificial intelligence strategy that can achieve good performances in landslide mapping by training a machine-learning model with a reduced number of landslide/non-landslide observations, which can save time and effort in labeling training instances. Nevertheless, active-learning models are unstable at the beginning of sample selection due to the limited initial knowledge of landslide distribution. Transfer learning can help make the learner robust by transferring a landslide model trained on an existing landslide inventory from a different, but geographically similar source area, to the unseen target area. In order to adjust a transferred machine-learning model to the possibly unique environmental characteristics of the unseen area, we proposed a new framework called Unsupervised Active-Transfer Learning (UATL). This framework used a weight function to combine the landslide model transferred from the source area, with a model trained on a small, but increasing number of landslide/nonlandslide observations from the target area to efficiently build a more robust learner. We examined two methods, adaptive UATL and regular UATL, which differed in the way they assign weights to the combined learners. We evaluated our proposed new methods by comparing them with three benchmark methods (active learning only, model transfer only, and the model trained in the unseen area itself) by means of the partial area under the receiver operating characteristic (ROC) curve (AUROC) as the evaluation criterion. The results showed that the new methods, and especially adaptive UATL, can achieve good predictive performances. With only about 235 training instances from the target area, the partial AUROC obtained from adaptive UATL was only 2% lower than that obtained from the model trained in the target area itself, and consistently outperformed the other two benchmarks. Overall, we suggest that the framework proposed can be applied to the natural hazards management workflow for assisting in emergency response, especially in data-scarce regions (e.g., mountainous areas and developing countries).
+AD  - Friedrich Schiller Univ Jena, Dept Geog, Loebdergraben 32, D-07743 Jena, GermanyC3  - Friedrich Schiller University of JenaFU  - Chinese Scholarship Council PhD scholarship
+FX  - Zhihao Wang was funded through a Chinese Scholarship Council PhD scholarship, which is gratefully acknowledged.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0098-3004
+SN  - 1873-7803
+J9  - COMPUT GEOSCI-UK
+JI  - Comput. Geosci.
+DA  - DEC
+PY  - 2023
+VL  - 181
+C7  - 105457
+DO  - 10.1016/j.cageo.2023.105457
+C6  - SEP 2023
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001097586000001
+N1  - Times Cited in Web of Science Core Collection:  15
+Total Times Cited:  16
+Cited Reference Count:  72
+ER  -
+
+TY  - JOUR
+AU  - Wang, SQ
+AU  - Cai, WH
+AU  - Sun, QC
+AU  - Wu, CYH
+AU  - Huang, X
+AU  - Giannopoulos, I
+AU  - Alinaghi, N
+AU  - Liu, ZH
+TI  - Human-perceived vs actual built environment: Using human-centred GeoAI and street view images to support urban planning in Australia
+T2  - JOURNAL OF ENVIRONMENTAL MANAGEMENT
+LA  - English
+KW  - Human perceived built environment
+KW  - Subjective built environment
+KW  - Objective built environment
+KW  - Urban planning
+KW  - Environmental psychology
+KW  - Street view image
+KW  - PEOPLE
+KW  - PERCEPTIONS
+KW  - MELBOURNE
+KW  - DESIGN
+AB  - In alignment with the United Nations Sustainable Development Goals, the pursuit of safe and sustainable cities that promote well-being across all age groups has become a core objective in urban planning and environmental management. The built environment profoundly influences individuals' thoughts, emotions, and behaviors, underscoring the importance of understanding how people perceive their surroundings in relation to objectively measured urban form. Despite growing recognition of the role of perception in shaping urban experience, empirical assessments of the alignment between perceived and actual built environments remain limited. This study explores the relationship between subjective (human-perceived) and objective (measured) characteristics of the built environment through a pilot study conducted in the Melbourne metropolitan area. Using street-level imagery from the Mapillary platform and deep learning techniques, we quantify perceived built environment characteristics across the "5D" urban design dimensions: Density, Diversity, Design, Distance to transit, and Destination accessibility. These perceptions are then compared to objective spatial metrics to assess their alignment. Our analysis reveals that neighborhoods featuring compact urban form, high density, mixed land use, convenient service access, and abundant green space tend to be perceived as more livable and aesthetically appealing. However, this relationship weakens when density surpasses a threshold, leading to perceptions of overcrowding and reduced neighbourhood quality. The findings offer actionable, place-based evidence for urban planners and policymakers seeking to integrate human perceptions into planning frameworks. Additionally, the study's scalable methodology provides a foundation for developing a national database of perceived built environments in Australia, supporting broader applications in health, social equity, and environmental research.
+AD  - Univ Southern Calif, Spatial Sci Inst, Dornsife Coll Letters Arts & Sci, Los Angeles, CA 90007 USAAD  - Univ Queensland, Sch Earth & Environm Sci, Brisbane, AustraliaAD  - RMIT Univ, Sch Sci, Melbourne, Vic, AustraliaAD  - Oklahoma State Univ, Dept Management Sci & Informat Syst, Stillwater, OK USAAD  - Emory Univ, Dept Environm Sci, Atlanta, GA USAAD  - TU Wien, Dept Geodesy & Geoinformat, Vienna, AustriaAD  - Peking Univ, Shenzhen Grad Sch, Sch Urban Planning & Design, Shenzhen, Guangdong, Peoples R ChinaC3  - University of Southern CaliforniaC3  - University of QueenslandC3  - Royal Melbourne Institute of Technology (RMIT)C3  - Oklahoma State University SystemC3  - Oklahoma State University - StillwaterC3  - Emory UniversityC3  - Technische Universitat WienC3  - Peking UniversityC3  - Peking University Shenzhen Graduate School (PKU Shenzhen)FU  - Australian Urban Research Infrastructure Network (AURIN) High Impact Project 2022 "Nationwide Longitudinal Database for Emerging CALD Communities and Social-Environmental Inequities"
+FX  - This study is supported by the Australian Urban Research Infrastructure Network (AURIN) High Impact Project 2022 "Nationwide Longitudinal Database for Emerging CALD Communities and Social-Environmental Inequities".
+PU  - ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI  - LONDON
+PA  - 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN  - 0301-4797
+SN  - 1095-8630
+J9  - J ENVIRON MANAGE
+JI  - J. Environ. Manage.
+DA  - AUG
+PY  - 2025
+VL  - 389
+C7  - 126070
+DO  - 10.1016/j.jenvman.2025.126070
+C6  - JUN 2025
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001513369100001
+N1  - Times Cited in Web of Science Core Collection:  8
+Total Times Cited:  8
+Cited Reference Count:  72
+ER  -
+
+TY  - JOUR
+AU  - Tella, A
+AU  - Zahidi, I
+AU  - Fai, CM
+AU  - Pham, QB
+TI  - Uncovering Spatiotemporal Urban Flood Dynamics: An Explainable GeoAI Approach to Land Cover Change Over Two Decades
+T2  - EARTH SYSTEMS AND ENVIRONMENT
+LA  - English
+KW  - Land use change
+KW  - Flood susceptibility
+KW  - Machine learning
+KW  - SHAP interpretability
+KW  - MNDWI thresholding
+AB  - Flood susceptibility assessments are essential for urban planning and disaster risk management, especially in rapidly urbanising regions with evolving land use patterns. While many studies assess flood risk at a single period, few explore how susceptibility evolves alongside long-term land use change. This study fills that gap by conducting a machine learning-based comparison of flood susceptibility in Kuala Lumpur for the years 2000 and 2020. Random Forest (RF) and Logistic Regression (LR) were used to model flood-prone areas based on climate, terrain, hydrological, and anthropogenic variables. Results indicate notable shifts in susceptibility, driven by urban expansion and vegetation loss. The RF model achieved high accuracy (96% in 2000 and 94% in 2020), with balanced precision and recall. The LR model showed slightly lower performance (93% and 89%, respectively), with a tendency to underpredict risk zones. Validation against historical flood records showed strong spatial alignment. SHapley Additive eXplanations (SHAP) were applied to enhance interpretability, revealing that the importance of factors like elevation, NDVI, and drainage density varied between decades. TWI, NDBI, and river proximity maintained moderate influence. A threshold-based Modified Normalised Difference Water Index (MNDWI) method was introduced, improving surface water and flood point detection and offering scalability to other regions. This study provides novel insights into the spatiotemporal dynamics of flood susceptibility. It emphasises the importance of integrating temporal land cover change into flood modelling. These findings will support adaptive flood risk management and urban resilience strategies, especially in fast-developing Southeast Asian cities.Graphical AbstractBased on the graphical snapshot, this study presents a spatiotemporal flood susceptibility assessment in the rapidly urbanising city of Kuala Lumpur over a two-decade period (2000-2020), employing machine learning and explainable artificial intelligence (XAI) to understand the influence of land use and topographic dynamics on flood risk. The graphical abstract illustrates the workflow comprising data-driven modelling, spatial mapping, feature attribution, and temporal land use analysis. Flood susceptibility maps generated for 2000 and 2020 indicate a spatial expansion of high-risk zones, particularly in low-lying and urbanised areas. Two models, Random Forest (RF) and Logistic Regression (LR), were applied and compared. RF achieved superior performance, with 96% and 94% accuracy for 2000 and 2020, respectively. The SHapley Additive exPlanations (SHAP) framework was used to interpret model predictions, revealing changes in the importance of flood-driving factors. Elevation and vegetation cover emerged as dominant predictors, while the land use/land cover (LULC) change analysis revealed a 2.77% increase in impervious surfaces and a 4.26% decline in vegetation, highlighting the adverse impacts of urban expansion and reduced green cover on flood risk. The Modified Normalised Difference Water Index (MNDWI) was validated for flood point detection and found effective across spatial contexts. This integrative approach offers actionable insights for sustainable urban planning and adaptive flood risk management. The study's findings support data-informed policymaking to address increasing flood susceptibility under dynamic land transformation conditions.
+AD  - Monash Univ Malaysia, Sch Engn, Dept Civil Engn, Jalan Lagoon Selatan, Bandar Sunway 47500, Selangor, MalaysiaAD  - Monash Univ Malaysia, Sch Engn, Monash Climate Resilient Infrastruct Res Hub M CRI, Jalan Lagoon Selatan, Bandar Sunway 47500, Selangor, MalaysiaAD  - Univ Silesia Katowice, Inst Earth Sci, Fac Nat Sci, Bedzinska St 60, PL-41200 Sosnowiec, PolandC3  - Monash UniversityC3  - Monash University MalaysiaC3  - Monash UniversityC3  - Monash University MalaysiaC3  - University of Silesia in KatowicePU  - SPRINGER INT PUBL AG
+PI  - CHAM
+PA  - GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN  - 2509-9426
+SN  - 2509-9434
+J9  - EARTH SYST ENVIRON
+JI  - Earth Syst. Environ.
+DA  - AUG
+PY  - 2026
+VL  - 10
+IS  - 4
+SP  - 4671
+EP  - 4691
+DO  - 10.1007/s41748-025-00878-7
+C6  - OCT 2025
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001596874700001
+N1  - Times Cited in Web of Science Core Collection:  3
+Total Times Cited:  4
+Cited Reference Count:  79
+ER  -
+
+TY  - CPAPER
+AU  - Akintola, M
+AU  - Neziri, G
+ED  - Minghini, M
+ED  - Ciolli, M
+ED  - Seric, L
+ED  - Hlupic, T
+TI  - An Open-Source Deep Learning Framework for Scalable Urban Heat Island Detection Using Geospatial Data
+T2  - ISPRS ICWG IV/III/II FOSS4G, FREE AND OPEN SOURCE SOFTWARE FOR GEOSPATIAL, EUROPE 2025-ACADEMIC TRACK, VOLUME XLVIII-4/W13-2025
+LA  - English
+CP  - 2025 Free and Open Source Software for Geospatial Europe Conference-FOSS4G
+KW  - Urban Heat Island (UHI)
+KW  - Deep Detection Modelling
+KW  - Open-Source GIS
+KW  - Convolutional Neural Networks (CNN)
+KW  - Satellite Imagery
+AB  - Urban Heat Islands (UHIs), where urban areas exhibit elevated temperatures relative to their rural surroundings, pose growing challenges in the context of climate change, particularly for densely built, vegetation-scarce cities. Traditional methods for UHI detection, often based on empirical indices or statistical regressions, lack spatial resolution, scalability, and adaptability across diverse urban environments. This study introduces an open-source deep learning framework that integrates multi-source satellite imagery and urban geospatial data to detect, map, and analyse UHIs with high spatial fidelity. The framework leverages a U-Net convolutional architecture with attention mechanisms to predict land surface temperature (LST) and delineate UHI hotspots. Input features include NDVI, impervious surface area, building density, and land use classifications, processed through a reproducible pipeline built with open-source tools such as QGIS, TensorFlow, and GDAL. Applied to Lagos, Nigeria, a rapidly urbanizing tropical megacity, the model achieved high predictive performance, successfully identifying critical hot zones and spatial correlations with urban morphology. The results reveal strong associations between UHI intensity and impervious surfaces and inverse correlation with vegetation. The framework's open architecture, combined with publicly released datasets and modular code, ensures adaptability for use in both data-rich and resource-limited settings. This research contributes a transparent, scalable, and participatory approach to UHI detection, offering actionable insights for climate adaptation, heat risk mitigation, and sustainable urban planning. It underscores the importance of open geospatial AI tools in promoting equitable and data-driven environmental governance.
+AD  - Merczcord Technol, Lagos, NigeriaAD  - SpaceSyntaKs, Ganimete Terbeshi 61, 10000 Prishtina, KosovoPU  - COPERNICUS GESELLSCHAFT MBH
+PI  - GOTTINGEN
+PA  - BAHNHOFSALLE 1E, GOTTINGEN, 37081, GERMANY
+SN  - 1682-1750
+SN  - 2194-9034
+J9  - INT ARCH PHOTOGRAMM
+PY  - 2025
+SP  - 11
+EP  - 16
+DO  - 10.5194/isprs-archives-XLVIII-4-W13-2025-11-2025
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:001587857800002
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  17
+ER  -
+
+TY  - JOUR
+AU  - Sepehri, B
+AU  - Almulhim, AI
+AU  - Adibhesami, MA
+AU  - Makaremi, S
+AU  - Ejazi, F
+TI  - Artificial Intelligence Role in Promoting Saudi Arabia's Smart Cities: Addressing SDGs for Socio-Cultural Challenges
+T2  - SOCIOLOGICESKOE OBOZRENIE
+LA  - English
+KW  - AI
+KW  - SDGs
+KW  - Socio-cultural challenges
+KW  - Smart Cities
+KW  - Saudi Arabia
+KW  - Saudi Vision 2030
+KW  - NEOM
+KW  - CLIMATE-CHANGE
+KW  - HERITAGE
+AB  - Th e study explores the use of artificial intelligence (AI) to address socio-cultural challenges in Saudi Arabia while promoting Sustainable Development Goals (SDGs). Using a structured narrative review method with a critical approach, the study highlights AI's versatility in analyzing complex social phenomena, understanding human behavior, and optimizing urban infrastructure. With its unique socio-cultural challenges, Saudi Arabia aims for sustainable development through Saudi Vision 2030 and various smart city projects, emphasizing the importance of addressing challenges like gender equality, cultural preservation, an increasing youth population, rapid urbanization, and climate change. Th e study identifies ten AI applications and models to address these challenges and promote relevant SDGs across six areas: Predictive Analytics and Forecasting, Optimization and Decision Support, Natural Language Processing, Computer Vision, Generative AI, and Geospatial AI. Th ese AI models can help address issues like gender equality, youth education, and employment, as well as optimize water management, energy use, and urban planning to address rapid urbanization and climate change challenges. By aligning AI development with the goals outlined in the SDGs, Saudi Arabia can unlock the potential of AI to create sustainable, resilient, and inclusive smart cities that effectively address socio-cultural challenges. However, the study emphasizes the necessity of customizing AI applications in smart cities based on Saudi Arabia's religious and cultural values to ensure ethical and culturally sensitive implementations. Th e fi ndings of this study hold relevance not only for Saudi Arabia but also for other countries facing similar challenges. Th e study provides practical recommendations for policymakers, urban planners, and technology experts to leverage AI effectively for sustainable development. It also outlines future research directions to address the limitations identified, such as exploring implementation challenges and ethical considerations.
+AD  - Tarbiat Modares Univ, Dept Urban Planning & Design, POB 14115-111,,Jalal Al Ahmad Highway Nasr, Tehran, IranAD  - Planning Imam Abdulrahman Bin Faisal Univ, Coll Architecture, Dept Urban & Reg Planning, POB 1982, Dammam 31451, Saudi ArabiaAD  - Iran Univ Sci & Technol, Sch Architecture & Environm Design, Dept Architecture, Tehran, IranAD  - Shahid Rajaee Teacher Training Univ, Sch Architectural & Urban Design, Urban Design Dept, Tehran, IranAD  - Univ Social Welf & Rehabil Sci, Dept Stat, Tehran, IranC3  - Tarbiat Modares UniversityC3  - Iran University Science & TechnologyC3  - Shahid Rajaee Teacher Training University (SRTTU)PU  - NATL RESEARCH UNIV HIGHER SCH ECONOMICS
+PI  - MOSCOW
+PA  - SHABOLOVKA, 26, MOSCOW, 119049, RUSSIA
+SN  - 1728-192X
+SN  - 1728-1938
+J9  - SOCIOL OBOZR
+JI  - Sociol. Obozr.
+PY  - 2024
+VL  - 23
+IS  - 4
+SP  - 20
+EP  - 47
+DO  - 10.17323/1728-192x-2024-4-20-47
+WE  - Emerging Sources Citation Index (ESCI)AN  - WOS:001410751100002
+N1  - Times Cited in Web of Science Core Collection:  7
+Total Times Cited:  9
+Cited Reference Count:  110
+ER  -
+
+TY  - CPAPER
+AU  - Randhawa, S
+AU  - Randhawa, G
+AU  - Li, YZ
+AU  - Sivak, O
+AU  - Zech, JS
+AU  - Martin, MA
+AU  - Zipf, A
+ED  - Omitaomu, OA
+ED  - Mostafavi, A
+ED  - Liu, Y
+TI  - Multiscale Multifeature Vision Learning for Scalable and Efficient Wastewater Treatment Plant Detection using Hi-Res Satellite Imagery and OSM
+T2  - PROCEEDINGS OF THE 1ST ACM SIGSPATIAL INTERNATIONAL WORKSHOP ON ADVANCES IN URBAN-AI, URBAN-AI 2023
+LA  - English
+CP  - 1st International Workshop on Advances in Urban-AI
+KW  - Object detection
+KW  - GeoAI
+KW  - Satellite Imagery
+KW  - OpenStreetMap
+KW  - Remote Sensing
+KW  - Computer Vision
+KW  - Infrastructure detection
+KW  - Wastewater treatment plants
+KW  - Deep Learning
+KW  - YOLO
+KW  - YOLOv6
+KW  - EfficientDet
+KW  - RTMDet
+KW  - Domain Adaptation
+KW  - Multiscale learning
+KW  - VGI
+AB  - Filling data gaps in various global regions requires a robust approach that can accurately provide detection results from earth observation data. One of the challenges arises from significant heterogeneity in satellite images and variation in features and characteristics for specific ground objects like Wastewater Treatment Plants (WTPs). To overcome these challenges, we propose a novel multiscale multifeature hybrid model. This model leverages the power of deep learning-based object detection models, namely Yolov6, RTMDET, EfficientDET, and Domain Adaptation, to accurately and efficiently identify WTP locations worldwide. Our approach focuses on performance enhancements, including reduced false positives (FPs) and broad coverage. The strategies for achieving these improvements involve effective data processing approaches, model tuning, and adaptation. Moreover, we optimize training data features using Volunteered Geographic Information (VGI) data. We demonstrated the effectiveness of the suggested approach for three diverse global regions: Germany, France, and Malaysia. Our study gives new insights into WTP distribution when compared to existing databases like OpenStreetMap (OSM). The resulting pipeline delivers good results even in challenging rural and urban context. Moreover, it is well-suited for generating large scale WTP datasets, which is useful for many applications such as Critical Water Infrastructure mapping, Urban Planning, Climate Action and many more.
+AD  - Heidelberg Inst Geoinformat Technol, Heidelberg, GermanyAD  - Heidelberg Univ, GISci Chair, Inst Geog, Heidelberg, GermanyAD  - Heidelberg Univ, Heidelberg Inst Geoinformat Technol HeiGIT, GISci Chair, Inst Geog, Heidelberg, GermanyC3  - Ruprecht Karls University HeidelbergC3  - Ruprecht Karls University HeidelbergPU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-0362-1
+PY  - 2023
+SP  - 10
+EP  - 21
+DO  - 10.1145/3615900.3628772
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)WE  - Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)AN  - WOS:001451447000002
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  38
+ER  -
+
+TY  - JOUR
+AU  - Qian, Z
+AU  - Chen, M
+AU  - Yang, Y
+AU  - Zhong, T
+AU  - Zhang, F
+AU  - Zhu, R
+AU  - Zhang, K
+AU  - Zhang, ZX
+AU  - Sun, Z
+AU  - Ma, PL
+AU  - Lü, GN
+AU  - Ye, Y
+AU  - Yan, JY
+TI  - Vectorized dataset of roadside noise barriers in China using street view imagery
+T2  - EARTH SYSTEM SCIENCE DATA
+LA  - English
+KW  - TRAFFIC NOISE
+KW  - CITIES
+KW  - DISPERSION
+KW  - POLLUTION
+KW  - GROWTH
+AB  - Roadside noise barriers (RNBs) are important urban infrastructures to ensure that cities remain liveable. However, the absence of accurate and large-scale geospatial data on RNBs has impeded the increasing progress of rational urban planning, sustainable cities, and healthy environments. To address this problem, this study creates a vectorized RNB dataset in China using street view imagery and a geospatial artificial intelligence framework. First, intensive sampling is performed on the road network of each city based on OpenStreetMap, which is used as the georeference for downloading 6 x 10(6) Baidu Street View (BSV) images. Furthermore, considering the prior geographic knowledge contained in street view images, convolutional neural networks incorporating image context information (IC-CNNs) based on an ensemble learning strategy are developed to detect RNBs from the BSV images. The RNB dataset presented by polylines is generated based on the identified RNB locations, with a total length of 2667.02 km in 222 cities. Last, the quality of the RNB dataset is evaluated from two perspectives, i.e., the detection accuracy and the completeness and positional accuracy. Specifically, based on a set of randomly selected samples containing 10 000 BSV images, four quantitative metrics are calculated, with an overall accuracy of 98.61 %, recall of 87.14 %, precision of 76.44 %, and F-1 score of 81.44 %. A total length of 254.45 km of roads in different cities are manually surveyed using BSV images to evaluate the mileage deviation and overlap level between the generated and surveyed RNBs. The root mean squared error for the mileage deviation is 0.08 km, and the intersection over union for overlay level is 88.08% +/- 2.95 %. The evaluation results suggest that the generated RNB dataset is of high quality and can be applied as an accurate and reliable dataset for a variety of large-scale urban studies, such as estimating the regional solar photovoltaic potential, developing 3D urban models, and designing rational urban layouts. Besides that, the benchmark dataset of the labeled BSV images can also support more work on RNB detection, such as developing more advanced deep learning algorithms, fine-tuning the existing computer vision models, and analyzing geospatial scenes in BSV. The generated vectorized RNB dataset and the benchmark dataset of labeled BSV imagery are publicly available at https://doi.org/10.11888/Others.tpdc.271914 (Chen, 2021).
+AD  - Nanjing Normal Univ, Key Lab Virtual Geog Environm, Minist Educ PRC, Nanjing 210023, Peoples R ChinaAD  - State Key Lab Cultivat Base Geog Environm Evolut, Nanjing 210023, Peoples R ChinaAD  - Jiangsu Ctr Collaborat Innovat Geog Informat Reso, Nanjing 210023, Peoples R ChinaAD  - Nanjing Normal Univ, Sch Math Sci, Jiangsu Prov Key Lab NSLSCS, Nanjing 210023, Peoples R ChinaAD  - MIT, Senseable City Lab, Cambridge, MA 02139 USAAD  - Hong Kong Polytech Univ, Dept Land Surveying & Geo Informat, Kowloon, Hong Kong, Peoples R ChinaAD  - Nanjing Univ, Coll Geog & Marine, POB 2100913, Nanjing, Peoples R ChinaAD  - Tongji Univ, Dept Architecture, Coll Architecture & Urban Planning, Shanghai, Peoples R ChinaAD  - Malardalen Univ, Future Energy Ctr, S-72123 Vasteras, SwedenAD  - KTH Royal Inst Technol, Dept Chem Engn, S-10044 Stockholm, SwedenC3  - Nanjing Normal UniversityC3  - Nanjing Normal UniversityC3  - Hong Kong Polytechnic UniversityC3  - Royal Institute of TechnologyFU  - National Natural Science Foundation of China; National Natural Science Foundation of China-Guangdong Joint Fund [U1811464]; Postgraduate Research and Practice Innovation Program of Jiangsu Province [KYCX22_1567]
+FX  - This research has been supported by the National Natural Science Foundation of China and National Natural Science Foundation of China-Guangdong Joint Fund (grant no. U1811464) and the Postgraduate Research and Practice Innovation Program of Jiangsu Province (grant no. KYCX22_1567).
+PU  - COPERNICUS GESELLSCHAFT MBH
+PI  - GOTTINGEN
+PA  - BAHNHOFSALLEE 1E, GOTTINGEN, 37081, GERMANY
+SN  - 1866-3508
+SN  - 1866-3516
+J9  - EARTH SYST SCI DATA
+JI  - Earth Syst. Sci. Data
+DA  - SEP 6
+PY  - 2022
+VL  - 14
+IS  - 9
+SP  - 4057
+EP  - 4076
+DO  - 10.5194/essd-14-4057-2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000850260100001
+N1  - Times Cited in Web of Science Core Collection:  21
+Total Times Cited:  25
+Cited Reference Count:  67
+ER  -
+
+TY  - JOUR
+AU  - Yan, XQ
+AU  - Huang, Z
+AU  - Ren, SL
+AU  - Zhu, Q
+AU  - Yin, GM
+AU  - Qi, JN
+AU  - Bao, Y
+TI  - Explainable urban renewal prediction at building-scale using hierarchical graph neural networks☆
+T2  - ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING
+LA  - English
+KW  - Spatially explicit XAI
+KW  - Urban renewal prediction
+KW  - Building-scale analysis
+KW  - Hierarchical graph model
+KW  - Multi-scale spatialmodeling
+KW  - CHINA
+AB  - Urban renewal prediction is critical for sustainable development, yet existing methods often overlook complex spatial dependencies and lack explainability. This study proposes an explainable hierarchical graph network for urban renewal (URHGN) prediction. It employs a hierarchical graph to model building and community level spatial interactions with GNNExplainer to predict renewal potential and quantify driving factors. Applied to Beijing, URHGN achieves an F1-score of 0.855 f 0.012, outperforming traditional machine learning (0.700-0.775) and single-layer graph methods (0.789-0.810). Explainability analysis reveals that building-level features like floor (importance: 0.485 f 0.030) are primary drivers while community-level context like house price (0.343 f 0.003) provides essential supplements. Spatial relationships prove more influential than node features, with contribution scores of 0.271 f 0.019 and 0.124 f 0.017 respectively. The model identifies 15,990 buildings with very high renewal potential (scores > 0.8), advancing explainable GeoAI (XGeoAI) methodologies for evidence-based urban planning and establishing a foundation for future dynamic models incorporating temporal changes. The code is available at: https://github.com/kkxiaoqin/URHGN.
+AD  - Peking Univ, Inst Remote Sensing & Geog Informat Syst, Beijing, Peoples R ChinaAD  - Peking Univ, Beijing Key Lab Spatiotemporal Percept & Urban Res, Beijing, Peoples R ChinaAD  - Minist Educ, Engn Res Ctr Earth Observat & Nav, Beijing, Peoples R ChinaAD  - Wuhan Univ, Sch Remote Sensing & Informat Engn, Wuhan, Peoples R ChinaAD  - Singapore MIT Alliance Res & Technol SMART, Singapore, SingaporeAD  - Nanjing Univ, Inst Space Earth Sci, Suzhou, Peoples R ChinaC3  - Peking UniversityC3  - Peking UniversityC3  - Wuhan UniversityC3  - Singapore-MIT Alliance for Research & Technology Centre (SMART)C3  - Nanjing UniversityFU  - National Natural Science Foundation of China [U2344216, 42271471, 42401559]; Post-doctoral Innovation Talent Support Program [BX20240001]
+FX  - We acknowledge funding support from National Natural Science Foundation of China (U2344216, 42271471, 42401559) , and Post-doctoral Innovation Talent Support Program (Grant No. BX20240001) . We would like to thank the editor and anonymous reviewers for their insightful comments.
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 0924-2716
+SN  - 1872-8235
+J9  - ISPRS J PHOTOGRAMM
+JI  - ISPRS-J. Photogramm. Remote Sens.
+DA  - MAR
+PY  - 2026
+VL  - 233
+SP  - 609
+EP  - 622
+DO  - 10.1016/j.isprsjprs.2026.02.013
+C6  - FEB 2026
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001691630700002
+N1  - Times Cited in Web of Science Core Collection:  1
+Total Times Cited:  1
+Cited Reference Count:  51
+ER  -
+
+TY  - JOUR
+AU  - Chen, ST
+AU  - Biljecki, F
+TI  - Automatic assessment of public open spaces using street view imagery
+T2  - CITIES
+LA  - English
+KW  - Urban perception
+KW  - Deep learning
+KW  - Urban analytics
+KW  - GeoAI
+KW  - Google Street View
+KW  - Participatory planning
+KW  - BUILT ENVIRONMENT
+KW  - PHYSICAL-ACTIVITY
+KW  - URBAN FORM
+KW  - HEALTH
+KW  - QUALITY
+KW  - AUDIT
+KW  - GREEN
+KW  - PERCEPTIONS
+KW  - ALGORITHMS
+KW  - LANDSCAPE
+AB  - Public open space (POS) is essential to urban areas. Assessing them usually requires tedious approaches such as fieldwork and manual processes. Street View Imagery (SVI) and Computer Vision (CV) have been adopted in some urban environment research, bringing fine granularity and human perspective. However, limited aspects have been subject in these studies, and SVI and CV have not been used for holistic POS assessment. This research introduces a novel approach of employing them in conjunction with traditionally used geospatial and remote sensing data for automating POS assessment and doing so extensively. Indicators from both subjective and objective perspectives are developed, and CV algorithms are adopted for retrieving visual features. In a case study spanning 800 POS in Hong Kong and Singapore, a method is designed to predict both subjective and objective scores. The results demonstrate the perceptual models achieved acceptable to high accuracy scores, and suggest that SVI reflects different aspects of POS compared to previous approaches. The paper concludes that SVI can be adopted in POS assessment as a new instrument, extending their research scope to rarely considered off -road areas, and contributing with a new approach for the design and allocation of POS in urban planning.
+AD  - Natl Univ Singapore, Dept Architecture, Singapore, SingaporeAD  - Natl Univ Singapore, Dept Real Estate, Singapore, SingaporeC3  - National University of SingaporeC3  - National University of SingaporeFU  - National University of Singapore;  [R-295-000- 171-133]
+FX  - We are grateful to the study participants. We appreciate the comments by the editor and reviewers that have helped improve the quality of the manuscript. We thank the members of the NUS Urban Analytics Lab for the discussions, and April Zhu for the design of the illustration. The Institutional Review Board of the National University of Singapore has reviewed and approved the ethical aspects of this research (reference code NUS-IRB-2021-932). This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start Up Grant R-295-000-171-133.
+PU  - ELSEVIER SCI LTD
+PI  - London
+PA  - 125 London Wall, London, ENGLAND
+SN  - 0264-2751
+SN  - 1873-6084
+J9  - CITIES
+JI  - Cities
+DA  - JUN
+PY  - 2023
+VL  - 137
+C7  - 104329
+DO  - 10.1016/j.cities.2023.104329
+C6  - APR 2023
+WE  - Social Science Citation Index (SSCI)AN  - WOS:000987169600001
+N1  - Times Cited in Web of Science Core Collection:  74
+Total Times Cited:  83
+Cited Reference Count:  106
+ER  -
+
+TY  - JOUR
+AU  - Wu, AN
+AU  - Stouffs, R
+AU  - Biljecki, F
+TI  - Generative Adversarial Networks in the built environment: A comprehensive review of the application of GANs across data types and scales
+T2  - BUILDING AND ENVIRONMENT
+LA  - English
+KW  - Machine learning
+KW  - Generative design
+KW  - Urban planning
+KW  - GeoAI
+KW  - Urban AI
+KW  - REMOTE-SENSING IMAGES
+KW  - INFORMATION
+KW  - REFINEMENT
+AB  - Generative Adversarial Networks (GANs) are a type of deep neural network that have achieved many state-of-the-art results for generative tasks. GANs can be useful in the built environment, from processing large-scale urban mobility data and remote sensing images at the regional level, to performance analysis and design generation at the building level. We analyzed 100 articles to provide a comprehensive state-of-the-art review on how GANs are currently applied to solve challenging tasks in the built environment. Our results show that: (i) GANs are replacing older methods in some problems and setting state-of-the-art performances; (ii) GANs are opening new frontiers in previously overlooked problems, such as automatically generating spatially accurate floorplan layouts; (iii) GANs can be applied to different scales in the built environment, from entire cities to neighborhoods and buildings; and (iv) GANs are being used in a variety of problems and data types, from remote sensing data augmentation, vector data generation, spatio-temporal data privacy protection, to building design generation. In total, there are 26 unique application domains enabled by GANs; (v) however, one common challenge in this field currently is the lack of high-quality datasets curated specifically for problems in the built environment. With more data in the future, GANs could potentially produce even better results than today.
+AD  - Singapore ETH Ctr, FCL Global, Singapore, SingaporeAD  - Natl Univ Singapore, Dept Architecture, Singapore, SingaporeAD  - Natl Univ Singapore, Dept Real Estate, Singapore, SingaporeC3  - National University of SingaporeC3  - National University of SingaporeFU  - National Research Foundation, Prime Minister's Office, Singapore
+FX  - The research was conducted at the Singapore-ETH Centre, which was established collaboratively between ETH Zurich and the National Research Foundation Singapore. This research is supported by the National Research Foundation, Prime Minister's Office, Singapore under its Campus for Research Excellence and Technological Enterprise (CREATE) program.
+PU  - PERGAMON-ELSEVIER SCIENCE LTD
+PI  - OXFORD
+PA  - THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN  - 0360-1323
+SN  - 1873-684X
+J9  - BUILD ENVIRON
+JI  - Build. Environ.
+DA  - SEP
+PY  - 2022
+VL  - 223
+C7  - 109477
+DO  - 10.1016/j.buildenv.2022.109477
+C6  - AUG 2022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000848102600001
+N1  - Times Cited in Web of Science Core Collection:  124
+Total Times Cited:  139
+Cited Reference Count:  142
+ER  -
+
+TY  - JOUR
+AU  - Zhang, XC
+AU  - Zheng, Y
+AU  - Wei, XB
+AU  - Gu, HK
+AU  - Liu, XP
+AU  - Witlox, F
+AU  - Wedge, NV
+AU  - Huang, HS
+TI  - Enhancing Geo-Transferability in Building Function Classification Through Similar Place Knowledge Retrieval
+T2  - IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING
+LA  - English
+KW  - Buildings
+KW  - Urban areas
+KW  - Remote sensing
+KW  - Transfer learning
+KW  - Data models
+KW  - Training
+KW  - Standards
+KW  - Supervised learning
+KW  - Soft sensors
+KW  - Sentinel-2
+KW  - Building function
+KW  - GeoAI
+KW  - geo-transferability
+KW  - multisourced data
+KW  - urban computing
+KW  - IMAGE
+AB  - Understanding the use of buildings (i.e., building functions) is crucial for effective urban management and policy making. Recently, many deep-learning-based models have been developed to identify building functions. However, their high performance depends on a large labeled dataset, which is a significant challenge for cities with limited labeled data. To close this gap, we propose a similar-place knowledge-retrieval-based framework for building function identification that enables a trained model to be directly applied/transferred to other cities without additional training needed. Our approach combines remote sensing (RS) imagery, point-of-interest (POI) data, and building footprints to capture the macro and micro built environment. Specifically, this framework includes two different modules: 1) a geo-aware transformer-based model to capture fine-grained spatial interactions between buildings and 2) a hierarchical node clustering algorithm with a similar-place knowledge-retrieval layer for portraying the coarse-grained features. This combination clusters all neighbors of a target building into a "place" and then conducts a coarse-grained knowledge transfer based on the similarity match. The evaluation conducted across nine cities demonstrates that the proposed model outperforms all state-of-the-art baselines, achieving an average improvement of 21.98% in cross-city predictions, as measured by Cohen's kappa coefficient. More importantly, the ablation study shows that integrating our knowledge-retrieval layer into other deep learning baselines significantly improves their cross-city prediction performance. In addition, the transferability performance analysis indicates that greater similarity between the sample distributions in the source and target cities contributes to the proposed model's higher transferability. In summary, the proposed knowledge-retrieval layer is an effective and reliable component for enhancing cross-city prediction and has strong potential for application in cities without labeled data to support city management and sustainable urban planning.
+AD  - Univ Ghent, Dept Geog, B-9000 Ghent, BelgiumAD  - Sun Yat Sen Univ, Sch Geog & Planning, Guangdong Key Lab Urbanizat & Geo Simulat, Guangzhou 510275, Peoples R ChinaC3  - Ghent UniversityC3  - Sun Yat Sen UniversityFU  - China Scholarship Council
+FX  - This work was supported by Chinese Scholarship Council.
+PU  - IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI  - PISCATAWAY
+PA  - 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN  - 0196-2892
+SN  - 1558-0644
+J9  - IEEE T GEOSCI REMOTE
+JI  - IEEE Trans. Geosci. Remote Sensing
+PY  - 2026
+VL  - 64
+C7  - 3000310
+DO  - 10.1109/TGRS.2026.3659015
+WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:001691041600023
+N1  - Times Cited in Web of Science Core Collection:  0
+Total Times Cited:  0
+Cited Reference Count:  33
+ER  -
+

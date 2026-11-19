@@ -1,0 +1,89 @@
+# ==========================================================
+# .gitignore for "TU Dortmund Everything"
+# GIS (QGIS / ArcGIS Pro), Python / Jupyter, R, documents
+# ==========================================================
+
+# ---------- Copyrighted papers, course material, slides ----------
+# Keep references in link.md instead of committing the PDFs
+*.pdf
+*.pptx
+*.ppt
+*.docx
+*.doc
+~$*
+~*
+*.tmp
+
+# ---------- QGIS ----------
+*.qgz~
+*.qgs~
+*.qgd
+*.qgz.bak
+*.qgs.bak
+# Shapefile edit locks, e.g. Innenstadt-Ost.shp.NANAKWASIOFOSU.12345.lock
+*.lock
+*.shp.*.lock
+
+# ---------- ArcGIS Pro ----------
+.backups/
+ImportLog/
+GpMessages/
+Index/
+*.aprx.bak
+*.gdb/*.lock
+*.gdb/*.sr.lock
+*.gdb/*.rd.lock
+*.gdb/*.ed.lock
+
+# ---------- Timestamped duplicate GeoPackages ----------
+# e.g. CJ01_innenstadt_ost_culture_places_25832_135007.gpkg
+*_[0-9][0-9][0-9][0-9][0-9][0-9].gpkg
+# GeoPackage temporary files
+*.gpkg-wal
+*.gpkg-shm
+*.gpkg-journal
+
+# ---------- Large rasters & datasets (>100 MB GitHub limit) ----------
+# Large rasters (uncomment if the repo gets too big)
+# *.tif
+# *.tiff
+# *.img
+# *.nc
+Semester 2 Winter 2026-2027/M 01 - Urban Green for Heat Reduction/Aplerbeck Work/Habitat Map/H10b_aplerbeck_species_gbif_25832.gpkg
+Semester 2 Winter 2026-2027/M 01 - Urban Green for Heat Reduction/Health Map Innenstadt-Ost/Alter_in_10er-Jahresgruppen/Zensus2022_Alter_in_10er-Jahresgruppen_100m-Gitter.csv
+Semester 2 Winter 2026-2027/M 01 - Urban Green for Heat Reduction/Health Map Innenstadt-Ost/Alter_in_5_Altersklassen/Alter_in_5_Altersklassen/Zensus2022_Alter_in_5_Altersklassen_100m-Gitter.csv
+Semester 2 Winter 2026-2027/M 01 - Urban Green for Heat Reduction/Health Map Innenstadt-Ost/Zensus2022_Bevoelkerungszahl/Zensus2022_Bevoelkerungszahl_100m-Gitter.csv
+Semester 2 Winter 2026-2027/M 01 - Urban Green for Heat Reduction/Shapefiles/Dortmund_Multipolygons_Fixed.gpkg
+Semester 2 Winter 2026-2027/M 01 - Urban Green for Heat Reduction/Shapefiles/NRW_Klimatop_fixed.gpkg
+Semester 2 Winter 2026-2027/M 01 - Urban Green for Heat Reduction/Shapefiles/Innenstadt-Ost shapefile/klimasensoren-historie(1).csv
+Semester 2 Winter 2026-2027/M 01 - Urban Green for Heat Reduction/Shapefiles/Innenstadt-Ost shapefile/klimasensoren-historie(2).csv
+
+# ---------- Python / Jupyter ----------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+cache/
+.cache/
+
+# ---------- R ----------
+.Rhistory
+.RData
+.Rproj.user/
+
+# ---------- Credentials and secrets (never commit) ----------
+.env
+*.env
+*service-account*.json
+*credentials*.json
+*.pem
+*.key
+.config/earthengine/
+
+# ---------- Operating system and editor files ----------
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

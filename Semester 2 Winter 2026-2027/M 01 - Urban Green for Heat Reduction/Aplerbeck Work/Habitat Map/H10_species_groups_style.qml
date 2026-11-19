@@ -1,0 +1,27 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.34" styleCategories="Symbology">
+ <renderer-v2 type="categorizedSymbol" enableorderby="0" forceraster="0" symbollevels="0" attr="CASE WHEN &quot;class&quot; = 'Aves' THEN 'Birds' WHEN &quot;class&quot; = 'Mammalia' THEN 'Mammals' WHEN &quot;class&quot; IN ('Amphibia','Reptilia') THEN 'Amphibians and reptiles' WHEN &quot;class&quot; = 'Insecta' THEN 'Insects' WHEN &quot;class&quot; IN ('Arachnida','Diplopoda','Malacostraca','Gastropoda') THEN 'Other invertebrates' WHEN &quot;class&quot; IN ('Magnoliopsida','Liliopsida','Polypodiopsida') THEN 'Vascular plants' WHEN &quot;class&quot; IN ('Bryopsida','Polytrichopsida','Jungermanniopsida','Marchantiopsida') THEN 'Mosses and liverworts' WHEN &quot;class&quot; IN ('Agaricomycetes','Dacrymycetes','Dothideomycetes','Lecanoromycetes','Leotiomycetes','Pezizomycetes','Pucciniomycetes','Sordariomycetes') THEN 'Fungi and lichens' ELSE 'Other' END">
+  <categories>
+   <category symbol="0" value="Birds" label="Birds" render="true"/>
+   <category symbol="1" value="Mammals" label="Mammals" render="true"/>
+   <category symbol="2" value="Amphibians and reptiles" label="Amphibians and reptiles" render="true"/>
+   <category symbol="3" value="Insects" label="Insects" render="true"/>
+   <category symbol="4" value="Other invertebrates" label="Other invertebrates (spiders, snails, woodlice, millipedes)" render="true"/>
+   <category symbol="5" value="Vascular plants" label="Vascular plants" render="true"/>
+   <category symbol="6" value="Mosses and liverworts" label="Mosses and liverworts" render="true"/>
+   <category symbol="7" value="Fungi and lichens" label="Fungi and lichens" render="true"/>
+   <category symbol="8" value="Other" label="Other" render="true"/>
+  </categories>
+  <symbols>
+   <symbol type="marker" name="0" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="33,113,181,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+   <symbol type="marker" name="1" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="8,48,107,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+   <symbol type="marker" name="2" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="78,179,211,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+   <symbol type="marker" name="3" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="227,74,51,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+   <symbol type="marker" name="4" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="166,54,3,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+   <symbol type="marker" name="5" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="65,171,93,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+   <symbol type="marker" name="6" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="140,158,43,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+   <symbol type="marker" name="7" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="221,52,151,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+   <symbol type="marker" name="8" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="circle"/><Option name="color" type="QString" value="150,150,150,255"/><Option name="outline_color" type="QString" value="255,255,255,255"/><Option name="outline_width" type="QString" value="0.2"/><Option name="size" type="QString" value="1.6"/></Option></layer></symbol>
+  </symbols>
+ </renderer-v2>
+</qgis>
